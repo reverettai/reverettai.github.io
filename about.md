@@ -17,7 +17,7 @@ If you’re looking for a CV, you can get your fix [here](https://djstrouse.gith
 
 ## <center><a href="http://instagram.com/djstrouse" target="_blank"><i class="icon-instagram-sign"></i> Instagram</a></center>
 
-## <center><a href="www.linkedin.com/pub/dj-strouse/7/228/463/" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
+## <center><a href="http://www.linkedin.com/pub/dj-strouse/7/228/463/" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
 
 ## <center><a href="https://github.com/djstrouse" target="_blank"><i class="icon-github"></i> GitHub</a></center>
 
