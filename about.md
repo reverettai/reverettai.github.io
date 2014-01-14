@@ -2,24 +2,21 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I am a Physics PhD student interested in collective behavior, computational neuroscience, and science outreach.
-tags: [about, Jaan Altosaar, Princeton, PhD, collective behavior]
+description: I am a physics PhD student at Princeton interested the design principles of biological systems.
+tags: [about, DJ Strouse, Princeton, PhD]
 image:
   feature: jaanaltosaar.jpg
 ---
-My background is Estonian-Canadian and I graduated from McGill University in Montreal, Canada with a degree in Mathematics and Physics in Spring 2013. In my spare time I thoroughly enjoy volleyball, meditation, making music, or ploughing through Haruki Murakami.
+I entertained ideas of becoming a filmmaker, sherpa, and professional chef before turning to science. My first loves and weapons of choice are physics and mathematics, but I now apply them to try to understand biological systems as solutions to computational problems. My scientific mecca is to understand the human brain well enough to improve upon it. When I’m not thinking about biology and computation, I’m usually thinking about how to improve science and education using the web. And when I’m not thinking at all, I often make mistakes.
 
-I am currently working in the [Couzin Lab](http://icouzin.princeton.edu/). You can find my CV at the following address: [jaan.io/cv](https://jaan.io/cv).
+I studied physics and math at the University of Southern California, spent a year at the University of Cambridge’s Computational and Biological Learning Laboratory on a Churchill Scholarship, and am now a PhD student in physics at Princeton University on a Hertz Fellowship and DoE Computational Sciences Graduate Fellowship. I work with Bill Bialek and Carlos Brody.
 
-The best way to reach me is via email at [altosaar@princeton.edu](mailto:altosaar@princeton.edu). Feel free to connect with me on the following networks:
+If you’re looking for a CV, you can get your fix [here](https://djstrouse.com/DJStrouseCV.pdf). If you want to get in touch, you can try my email ("daniel" + "j" + "strouse" + "@gmail.com") or the following places around the interwebs:
 
-## <center><a href="https://twitter.com/thejaan" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
+## <center><a href="https://facebook.com/djstrouse" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></center>
 
-## <center><a href="http://www.linkedin.com/in/jaanaltosaar" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
+## <center><a href="https://twitter.com/djstrouse" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
 
-## <center><a href="https://github.com/altosaar" target="_blank"><i class="icon-github"></i> GitHub</a></center>
+## <center><a href="http://www.linkedin.com/in/djstrouse" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
 
-
-
-
-
+## <center><a href="https://github.com/djstrouse" target="_blank"><i class="icon-github"></i> GitHub</a></center>
