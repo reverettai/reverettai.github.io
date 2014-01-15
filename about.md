@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: About
-description: I am a physics PhD student at Princeton interested the design principles of biological systems.
+description: I am a physics PhD student at Princeton interested in the design principles of biological systems.
 tags: [about, DJ Strouse, Princeton, PhD]
 image:
   feature: djstrouse.jpg
