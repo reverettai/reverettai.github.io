@@ -2,7 +2,7 @@
 layout: page
 permalink: /press/index.html
 title: Press
-description: Occasionally I do something newsworthy. Here are some articles touching on my work.
+description: Occasionally people write something about me. Here are some articles touching on my work.
 tags: [press, DJ Strouse, Princeton, PhD]
 ---
 May 1, 2013 - [Princeton University's article on its new Hertz Fellows](http://www.princeton.edu/main/news/archive/S36/74/14S87/index.xml?section=topstories)<br>
