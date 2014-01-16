@@ -6,7 +6,6 @@ category: project
 modified: 2014-01-16
 tags: [statistics, recipes, information theory, entropy, culturomics, projects]
 image:
-  feature: recipentropy.jpg
   thumb: recipentropy.jpg
 ---
 
