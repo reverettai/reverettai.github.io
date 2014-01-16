@@ -6,8 +6,8 @@ category: project
 modified: 2014-01-16
 tags: [statistics, recipes, information theory, entropy, culturomics, projects]
 image:
-  feature: gatsby.jpg
-  thumb: grethumb.jpg
+  feature: recipentropy.jpg
+  thumb: recipentropy.jpg
 ---
 
 This project started with a riddle:
