@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: How to ace the GRE and Physics GRE
 description: "Tips and tricks to maximize your GRE and Physics GRE scores."
-category: articles
+category: blog
 modified: 2013-08-28
 tags: [physics gre, ace physics gre, gre, applications, grad school, grad school applications, science, physics phd]
 image:

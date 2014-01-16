@@ -1,8 +1,8 @@
 ---
 layout: post-light-feature
 title: The Statistics of Recipes (RecipEntropy)
-description: "Of all possible combinations of ingredients, only a small fraction are used as recipes. What's special about those combinations?"
-category: projects
+description: "What is special about the small fraction of ingredient combinations that we use as recipes?"
+category: project
 modified: 2014-01-16
 tags: [statistics, recipes, information theory, entropy, culturomics, projects]
 image:
@@ -10,11 +10,11 @@ image:
   thumb: grethumb.jpg
 ---
 
-<i>With: Ari Strandberg-Peshkin & Kelsi Lindblad</i>
+<em>With: Ari Strandberg-Peshkin & Kelsi Lindblad</em>
 
 This project started with a riddle:
 
-<i>Can you think of a set of three types of food, in which each pair of foods tastes good together, but the combination of all three does not taste good?</i>
+<em>Can you think of a set of three types of food, in which each pair of foods tastes good together, but the combination of all three does not taste good?</em>
 
 This riddle is harder than you might expect, and, ultimately, I have yet to hear a satisfactory answer (but if you think you have a candidate, please email me!).
 
