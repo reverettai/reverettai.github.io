@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Jaan</title>
-<subtitle type="text">Excursions into Entropy.</subtitle>
+<title type="text">DJ</title>
+<subtitle type="text">the rantings of a baby scientist</subtitle>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
 <updated>2013-08-27T16:41:47-04:00</updated>
 <id>/</id>
 <author>
-  <name>Jaan Altosaar</name>
+  <name>DJ Strouse</name>
   <uri>/</uri>
-  <email>jaan@jaan.io</email>
+  <email>danieljstrouse@gmail.com</email>
 </author>
 
 
@@ -22,9 +22,9 @@
   <published>2013-08-17T00:00:00-04:00</published>
   
   <author>
-    <name>Jaan Altosaar</name>
+    <name>DJ Strouse</name>
     <uri></uri>
-    <email>jaan@jaan.io</email>
+    <email>danieljstrouse@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’vonetuhe had.”&lt;/p&gt;
 
@@ -60,9 +60,9 @@ I lived at West Egg, the — well, the less fashionable of the two, though this 
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
-    <name>Jaan Altosaar</name>
+    <name>DJ Strouse</name>
     <uri></uri>
-    <email>jaan@jaan.io</email>
+    <email>danieljstrouse@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;It was a picture of a boa constrictor in the act of swallowing an animal. Here is a copy of the drawing:&lt;/p&gt;
 
@@ -100,9 +100,9 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
-    <name>Jaan Altosaar</name>
+    <name>DJ Strouse</name>
     <uri></uri>
-    <email>jaan@jaan.io</email>
+    <emaildanieljstrouse@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This is a post that uses a &lt;code&gt;figure&lt;/code&gt;. It stacks these images and places a nice little caption below if you fill out &lt;code&gt;figcaption&lt;/code&gt;.&lt;/p&gt;
 
@@ -130,9 +130,9 @@ grown-ups could see it clearly. They always need to have things explained.&lt;/p
   <published>2013-08-05T00:00:00-04:00</published>
   <updated>2013-08-05T00:00:00-04:00</updated>
   <author>
-    <name>Jaan Altosaar</name>
+    <name>DJ Strouse</name>
     <uri></uri>
-    <email>jaan@jaan.io</email>
+    <emaildanieljstrouse@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;“Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”&lt;/p&gt;
 
