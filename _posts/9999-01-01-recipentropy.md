@@ -4,10 +4,11 @@ title: The Statistics of Recipes (RecipEntropy)
 description: "Of all possible combinations of ingredients, only a small fraction are used as recipes. What's special about those combinations?"
 category: articles
 modified: 2014-01-16
+category: [projects]
 tags: [statistics, recipes, information theory, entropy, culturomics, projects]
 image:
   feature: gatsby.jpg
-  thumb: gatsbyth.jpg
+  thumb: grethumb.jpg
 ---
 
 <i>With: Ari Strandberg-Peshkin & Kelsi Lindblad</i>
