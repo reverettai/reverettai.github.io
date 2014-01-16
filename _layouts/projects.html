@@ -5,7 +5,8 @@
           <article class="archive-wrap">
               <ol class="post-list">
                   <lh style="text-align: center"><h2><span class="bb"><a href="{{ page.url }}">{{ page.title }}</a></span></h2></lh>
-                  {% for post in site.projects %}
+                  {% for post in site.posts %}
+                  {% if post.category = "projects" %}
                   <li>
                      <a href="{{ site.url }}{{ post.url }}">
                      <div class="featured-image-small" style="background-image: url({{ site.url }}/images/{{ post.image.thumb }})">
@@ -17,6 +18,7 @@
                      <p class="summary">{% if post.description %}{{ post.description  | strip_html | strip_newlines | truncate: 120 }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
                      </div>
                   </li>
+                  {% endif %}
                   {% endfor %}
               </ol>
           </article>
