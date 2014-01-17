@@ -14,9 +14,9 @@ image:
 
 In a series of behavioral experiments on humans, I am trying to answer the following questions:
 
-(1) What features of the human voice correlate with speaker confidence?
-(2) What features of the speaker's voice do listeners use to estimate their confidence?
-(3) If one alters the vocal features above, how does it affect group decision-making performance?
+(1) What features of the human voice correlate with speaker confidence?<br>
+(2) What features of the speaker's voice do listeners use to estimate their confidence?<br>
+(3) If one alters the vocal features above, how does it affect group decision-making performance?<br>
 (4) How do the answers to the above questions vary based on the cultures of and familiarity between the speaker and listener?
 
-This work began as a summer school project at [Cold Spring Harbor Asia](http://www.csh-asia.org/)'s Computational and [Cognitive Neuroscience Summer School (CCNSS)](http://www.csh-asia.org/s-cosyne13.html) with input from [Zach Mainen](http://neuro.fchampalimaud.org/en/research/group/Mainen/), [Eric DeWitt](http://www.linkedin.com/pub/eric-dewitt/0/3a9/214), and [Matt Botvinick](http://www.princeton.edu/~matthewb/), though the idea comes from a discussion with my master's thesis advisor, [Máté Lengyel](http://www3.eng.cam.ac.uk/~ml468/).
+This work began as a summer school project at [Cold Spring Harbor Asia](http://www.csh-asia.org/)'s [Computational and Cognitive Neuroscience Summer School (CCNSS)](http://www.csh-asia.org/s-cosyne13.html) with input from [Zach Mainen](http://neuro.fchampalimaud.org/en/research/group/Mainen/), [Eric DeWitt](http://www.linkedin.com/pub/eric-dewitt/0/3a9/214), and [Matt Botvinick](http://www.princeton.edu/~matthewb/), though the idea originates from a discussion with my master's thesis advisor, [Máté Lengyel](http://www3.eng.cam.ac.uk/~ml468/).
