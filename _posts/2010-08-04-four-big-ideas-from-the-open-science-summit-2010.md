@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Four Big Ideas from the Open Science Summit 2010
-description: "Microfinance & science, scientific reproducibility, attracting scientists to open science, expanded view for CoLab"
+description: "Microfinance & science, scientific reproducibility, attracting scientists to open science, and an expanded view for CoLab."
 categories: [blog, open science]
 modified: 2010-08-04
 image:
