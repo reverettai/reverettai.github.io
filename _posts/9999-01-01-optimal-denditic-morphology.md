@@ -14,6 +14,6 @@ We found that recognition performance is maximized for dendrites of “medium”
 
 By helping to flesh out the causal chain that links the properties of neurons, dendrites, synapses, and patterns to online storage capacity, our results help elucidate not only the normal functioning of memory-related areas of the brain, but also which types of changes in neurons, their connections, and their plasticity rules that occur in aging, stress, neurological disorders, and mental retardation are likely to be most detrimental to memory function and why.
 
-<strong>With: [Bartlett Mel](http://www.usc.edu/programs/neuroscience/faculty/profile.php?fid=12) & Xundong Wu<\strong>
+<strong>With: [Bartlett Mel](http://www.usc.edu/programs/neuroscience/faculty/profile.php?fid=12) & Xundong Wu
 
 A draft of this project is nearly complete and will be submitted soon, but in the meantime, here's a [poster from SfN 2011](http://www.djstrouse.github.io/downloads/SFN2011.pdf).
