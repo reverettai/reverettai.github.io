@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Mid-Year Dispatch from England Part I
+title: Dispatch from England - Part I
 description: "Life at Churchill College"
 categories: [blog, travel, england]
 modified: 2012-02-09

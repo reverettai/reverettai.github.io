@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Mid-Year Dispatch from England Part II
+title: Dispatch from England - Part II
 description: "Life in England"
 categories: [blog, travel, england]
 modified: 2012-04-19

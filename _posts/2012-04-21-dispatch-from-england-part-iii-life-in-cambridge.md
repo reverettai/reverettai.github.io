@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Mid-Year Dispatch from England Part III
+title: Dispatch from England - Part III
 description: "Life in Cambridge"
 categories: [blog, travel, england]
 modified: 2012-04-21

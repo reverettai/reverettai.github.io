@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Mid-Year Dispatch from England Part V
+title: Dispatch from England - Part V
 description: "Advice for Future Churchill Scholars (and Other Cambridge Students)"
 categories: [blog, travel, england]
 modified: 2012-10-19

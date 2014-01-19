@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Mid-Year Dispatch from England Part IV
+title: Dispatch from England - Part IV
 description: "Life £20 North of the Continent"
 categories: [blog, travel, england]
 modified: 2012-05-20
