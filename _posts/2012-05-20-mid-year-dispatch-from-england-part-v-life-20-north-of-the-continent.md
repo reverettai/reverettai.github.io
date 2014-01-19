@@ -16,7 +16,7 @@ It is hard to say whether my fondness for Budapest should be attributed to its o
 
 The Danube River runs right through the center, dividing the city into Buda (west) and Pest (east), which were originally two separate cities that gradually grew together. Across the Danube stretch several bridges, which are all lit up spectacularly at night, along with many of the major buildings. My initial impression of the city was that it was proof that communism is a recipe for poverty and ugly buildings, but walking across the bridges after dark and pausing for views of Parliament and Castle Hill quickly reminded me that Hungary has done fairly well for itself after leaving the nest of Mother Russia.
 
-In the mornings, I took advantage of Buda’s steep hills (especially Castle and Gellért Hills) to get in some proper runs[^1] (the steepest thing I can run up in Cambridge is the curb) and soak in more views of the city. I even had the opportunity to go for a nice run with a friend from the States who happened to be visiting the city for a conference.
+In the mornings, I took advantage of Buda’s steep hills (especially Castle and Gellért Hills) to get in some proper runs[[^1]] (the steepest thing I can run up in Cambridge is the curb) and soak in more views of the city. I even had the opportunity to go for a nice run with a friend from the States who happened to be visiting the city for a conference.
 
 By day, I worked at the Central European University with my advisor. Without the distractions of Cambridge, the week turned out to be very productive scientifically, including the initiation of a collaboration with an experimental neuroscientist in Budapest who is willing and able to test a model of single-cell computation that I have been working on.
 
