@@ -1,11 +1,11 @@
 ---
 layout: post-light-feature
 title: The Dematerialization (and Digitization) of Life or "Hey, Where'd All My Stuff Go?"
-description: "Why today's tests are unnatural and some thoughts on how to improve them."
+description: "One unexpected consequence of the digital age - no objects to evoke memories."
 categories: [blog, culture]
 modified: 2010-04-06
 image:
-  thumb: testing.jpg
+  thumb: emptyroom.jpg
 ---
 I'm a huge proponent of digitizing my life as much as possible.  When the data of my life is available as bits, its also searchable, sharable, and can be mined to ask interesting questions.
 
