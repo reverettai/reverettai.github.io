@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
-title: Mid-Year Dispatch from England Part IV - Life £20 North of the Continent
-description: "Living so close to continental Europe offers lots of travel opportunities."
+title: Mid-Year Dispatch from England Part IV
+description: "Life £20 North of the Continent"
 categories: [blog, travel, england]
 modified: 2012-05-20
 image:
