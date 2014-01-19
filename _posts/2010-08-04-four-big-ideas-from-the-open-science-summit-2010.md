@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Four Big Ideas from the Open Science Summit 2010
-description: "Reflections on five years at the University of Southern California."
+description: "Microfinance & science, scientific reproducibility, attracting scientists to open science, expanded view for CoLab"
 categories: [blog, open science]
 modified: 2010-08-04
 image:
@@ -10,7 +10,7 @@ image:
 Last weekend, half of my RSS, FriendFeed, and Twitter feeds assembled in Berkeley for the first major conference ever devoted to open science[[^1]] - the <a href="http://opensciencesummit.com/">Open Science Summit 2010</a>.  The talks ranged from invigorating to completely inappropriate, but the real action was not on stage; it was in the hallways.  Put a couple hundred hackers, scientists, and open science fanboys in a conference hall in Berkeley, add after-hours pub crawls, and simmer for three days and you've got a recipe for disruptive ideas.  I'll outline my favorite four below.
 
 <strong>1. The Synergy Between Microfinance and Open Science</strong><br>
-At least in the US, the most typical flow of funding for science follows the pattern: taxpayer -&gt; government -&gt; scientists. <a href="http://apply.fundscience.org/">FundScience</a>, <a href="http://sciflies.org/">SciFlies</a>, and <a href="http://eurekafund.org/">EurekaFund</a> ask, "Why not cut out the middle man?" Their idea is to enable citizens to fund scientific projects directly. While any one citizen probably can't afford to fund anything but mathematics (coffee is cheap), the collective donations of many science groupies can easily add up to support more resource-intensive projects.
+At least in the US, the most typical flow of funding for science follows the pattern: taxpayer -> government -> scientists. <a href="http://apply.fundscience.org/">FundScience</a>, <a href="http://sciflies.org/">SciFlies</a>, and <a href="http://eurekafund.org/">EurekaFund</a> ask, "Why not cut out the middle man?" Their idea is to enable citizens to fund scientific projects directly. While any one citizen probably can't afford to fund anything but mathematics (coffee is cheap), the collective donations of many science groupies can easily add up to support more resource-intensive projects.
 
 I really like this idea because it beefs up the incentive for scientists to adopt open science practices.  Why?  Consider which projects are most likely to be funded by microfinance. If I'm a citizen about to throw several hundred dollars into a scientific project, I want to be able to see the science. A published paper every few months (or year) is not enough. I want to see the process, I want live updates, and I want to feel like my donation is moving science forward. In other words, <em>citizens will be more likely to fund open science projects than traditional proprietary projects.</em>
 
