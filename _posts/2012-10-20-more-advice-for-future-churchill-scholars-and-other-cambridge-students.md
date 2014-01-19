@@ -4,7 +4,6 @@ title: More Advice for Future Churchill Scholars (and Other Cambridge Students)
 description: "Reflections on a year as a Churchill Scholar"
 categories: [blog, travel, england]
 modified: 2012-10-20
-tags: [advice, churchill scholarship, winston churchill, cambridge, cambridge university]
 image:
   thumb: churchill.jpg
 ---
@@ -20,4 +19,4 @@ If you enjoy hiking, go to Snowdonia in Wales, the Lake District in England, and
 
 Take visiting friends to formal dinners, especially at one of the nicer (sorry, Churchill) dining halls (e.g. Trinity). Most find it a very unique and memorable experience.
 
-<strong>This post is adapted from a final report I submitted to the Churchill Foundation - the sponsor whose generosity is allowing me to spend one year at the University of Cambridge. It was written in September 2012.</strong>
+*This post is adapted from a final report I submitted to the Churchill Foundation - the sponsor whose generosity is allowing me to spend one year at the University of Cambridge. It was written in September 2012.*

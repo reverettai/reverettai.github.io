@@ -4,7 +4,6 @@ title: Mid-Year Dispatch from England Part V - Advice for Future Churchill Schol
 description: "Reflections on half a year as a Churchill Scholar"
 categories: [blog, travel, england]
 modified: 2012-10-19
-tags: [advice, churchill scholarship, winston churchill, cambridge, cambridge university]
 image:
   thumb: churchill.jpg
 ---
@@ -34,4 +33,4 @@ Arrive early and spend a couple of weeks settling in. Doing so before term start
 
 Finally, familiarize yourself with <a href="http://www.gumtree.com/">Gumtree</a>, the UK’s equivalent of craigslist. It is, for example, the best way to pick up an inexpensive and high quality bike in Cambridge.
 
-<strong>This post is the final part of a five-part series on my first four months in Cambridge adapted from a mid-year report I submitted to the Churchill Foundation - the sponsor whose generosity is allowing me to spend one year at the University of Cambridge. It was written in January 2012.</strong>
+*This post is the final part of a five-part series on my first four months in Cambridge adapted from a mid-year report I submitted to the Churchill Foundation - the sponsor whose generosity is allowing me to spend one year at the University of Cambridge. It was written in January 2012.*
