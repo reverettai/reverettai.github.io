@@ -5,7 +5,7 @@ description: "Life at Churchill College"
 categories: [blog, travel, england]
 modified: 2012-02-09
 image:
-  thumb: churchill.jpg
+  thumb: churchillcollege.jpg
 ---
 <em>Before I arrived in England, I had arranged the purchase of a bicycle from a student who was graduating. Feeling particularly savvy, I mentioned this to Churchill's graduate student administrator as she led me to my new home at Churchill. “Good!” she replied. “A bike is a great way to get around Cambridge. Just be sure not to ride on the pavement.” I was immediately crestfallen, as I imagined the difficulty of navigating my bike along narrow patches of grass and stopping to walk it across streets and sidewalks. What a waste of nearly £100! She noticed my apparently very worried expression and asked what was the matter. I explained to her my shattered dreams of riding a bike to work each day and she laughed. As it turns out, “pavement” means “sidewalk” in British English. It was this moment I first appreciated that England was indeed a foreign country.</em>
 

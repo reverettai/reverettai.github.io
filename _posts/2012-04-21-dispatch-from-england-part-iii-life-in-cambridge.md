@@ -5,7 +5,7 @@ description: "Life in Cambridge"
 categories: [blog, travel, england]
 modified: 2012-04-21
 image:
-  thumb: churchill.jpg
+  thumb: cambridge.jpg
 ---
 *A few months before I moved to Cambridge, I was traveling to London for an interview with a PhD program and used the opportunity to scope out the housing situation in Cambridge and meet with my advisor. After I spent the day with my research group, I decided I would spend the evening preparing for my interview. Since my hotel did not have wifi, I ventured into town to look for a café to work in for the evening. To my horror, every single café I encountered closed by 6 or 7pm. Dejected by this unexpected internet famine, I wandered back to my hotel and read a book.*
 

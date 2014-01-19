@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Dispatch from England - Part V
-description: "Advice for Future Churchill Scholars (and Other Cambridge Students)"
+description: "Advice for future Churchill Scholars (and other Cambridge students)"
 categories: [blog, travel, england]
 modified: 2012-10-19
 image:

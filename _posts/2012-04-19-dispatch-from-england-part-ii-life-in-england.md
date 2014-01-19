@@ -5,7 +5,7 @@ description: "Life in England"
 categories: [blog, travel, england]
 modified: 2012-04-19
 image:
-  thumb: churchill.jpg
+  thumb: britishflag.jpg
 ---
 <em>A friend of mine purchased a used bike at a shop for £150. After a series of subsequent mechanical problems over the following few weeks, he realized he had been ripped off and was regretting his purchase. Relaying his story to his brother back in the US, he said, “This 150 pound bike has been nothing but trouble for me.” His brother replied, “What did you expect from such a heavy bike?”</em>
 

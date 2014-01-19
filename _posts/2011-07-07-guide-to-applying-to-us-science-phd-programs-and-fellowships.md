@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Guide to Applying to US Science PhD Programs and Fellowships
-description: "Reflections on a year as a Churchill Scholar"
+description: "How to choose where to apply, how to put together a good application, and how to decide where to go."
 categories: [blog, education]
 modified: 2011-07-07
 image:

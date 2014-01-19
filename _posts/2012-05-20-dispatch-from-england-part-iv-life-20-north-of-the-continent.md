@@ -5,7 +5,7 @@ description: "Life £20 North of the Continent"
 categories: [blog, travel, england]
 modified: 2012-05-20
 image:
-  thumb: churchill.jpg
+  thumb: cambridgetravel.jpg
 ---
 *I recently caught up with a good friend of mine from the States with whom I often hiked in southern California. I told her that I very much missed hiking and regretted the notable lack of contour lines on maps of Cambridge and the surrounding area. She extended her sympathy and asked what I had been doing instead. I told her that I had spent a week in Budapest on a research visit, a week in Muslim Spain attending a conference and snowboarding, three days in Italy for ice climbing, two days in Munich for Christmas festivals and museums, one week in Vienna for Christmas festivals and museums, and nine days in Morocco hiking and exploring the medieval cities of Marrakesh and Fes. She retracted her offer of sympathy.*
 
