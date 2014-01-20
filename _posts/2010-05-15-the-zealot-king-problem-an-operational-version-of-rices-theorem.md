@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: The Zealot King Problem & An Operational Version of Rice's Theorem
-description: "Musings on Turing machines inspired by reading Michael Sipser's 'Introduction to the Theory of Computation'"
+description: "Musings on Turing machines inspired by Sipser's 'Introduction to the Theory of Computation'"
 categories: [blog, science]
 modified: 2010-05-15
 image:
