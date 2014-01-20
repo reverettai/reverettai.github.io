@@ -5,7 +5,7 @@ description: "How should we define and measure randomness?"
 categories: [blog, culture]
 modified: 2008-12-25
 image:
-  thumb: dice.jpg
+  thumb: choiceplane.jpg
 ---
 Ever since Americans were sent into a tizzy over that little "taxation without representation" issue with King George, we've obsessed over democracy and freedom of choice.  Naturally, we assume that more choices and more freedom to evaluate and select them is unqualifiably better.
 
