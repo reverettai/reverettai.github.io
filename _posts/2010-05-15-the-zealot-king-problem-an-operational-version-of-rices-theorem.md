@@ -56,7 +56,7 @@ H= "On input &lt;T,w&gt;,
 	<li>If B accepts &lt;N&gt;, reject &lt;T,w&gt;.</li>
 	<li>If B rejects &lt;N&gt;, accept &lt;T,w&gt;."</li>
 </ol>
-If S halts (accepts or rejects), N violates R and halts. Â If S doesn't halt, N never violates R and doesn't halt. Â So N violates R if and only if S halts. Â By definition, S halts if and only if T halts on w. Â So N violates R if and only if T halts on w. Â Also, by definition, B accepts &lt;N&gt; if and only if N <em>does not</em> violate R for any input. Â So B accepts &lt;N&gt; if and only if T <em>does not</em> halt on w. Â So by steps 3 and 4 of H's description, H decides HALT.
+If S halts (accepts or rejects), N violates R and halts. If S doesn't halt, N never violates R and doesn't halt. So N violates R if and only if S halts. By definition, S halts if and only if T halts on w. So N violates R if and only if T halts on w. Also, by definition, B accepts &lt;N&gt; if and only if N <em>does not</em> violate R for any input. So B accepts &lt;N&gt; if and only if T <em>does not</em> halt on w. So by steps 3 and 4 of H's description, H decides HALT.
 
 <strong>Justification of "Gentle" and "Non-Expiring" Conditions</strong><br>
 I needed the "gentle" condition for the lemma. Â If the restriction actually reduces the power of Turing machines, the above method of building some Turing machine simulator that operates under that restriction and only violates it to signal some particular situation (i.e. halting) won't work, since the simulator won't be universal.
