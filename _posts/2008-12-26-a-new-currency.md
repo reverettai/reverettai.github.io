@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Why the World Needs New Currencies
-description: "How should we define and measure randomness?"
+description: "Our current monetary system doesn't always reward those who deserve it."
 categories: [blog, culture]
 modified: 2008-12-26
 image:
