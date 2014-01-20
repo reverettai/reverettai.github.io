@@ -5,7 +5,7 @@ description: "How should we define and measure randomness?"
 categories: [blog, science]
 modified: 2009-07-15
 image:
-  thumb: itinerant.jpg
+  thumb: CIMG6554.jpg
 ---
 If I ask you where and how scientists work, you probably conjure an image like this:
 
