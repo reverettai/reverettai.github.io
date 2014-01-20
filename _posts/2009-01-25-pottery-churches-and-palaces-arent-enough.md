@@ -1,0 +1,31 @@
+---
+layout: post-light-feature
+title: Pottery, Churches, and Palaces Aren't Enough
+description: "The damaging effect of history's focus on the powerful and tangible."
+categories: [blog, culture]
+modified: 2009-01-25
+image:
+  thumb: brokenpottery.jpg
+---
+<strong>All Roads Lead to Versailles</strong><br>
+Spend a summer backpacking Europe and you'll likely soon discover that your church saturation point is lower than you think.  A recent winter break trip to Thailand taught me that temples and palaces lose their flavor faster than <a href="http://en.wikipedia.org/wiki/Fruit_Stripe">Fruit Stripe</a>.
+
+With the incredibly richness of natural wonders, cultural quirks, niche worldviews, and modes of human experience, you'd expect that tourism couldn't help but be revealing and invigorating.  Yet somehow, the more I travel, the emptier the main tourist path seems.  I travel to discover new ways to look at the world but rarely find these on the main tourist path.  How does this happen?
+
+<strong>Tourism's Dominance By Power and Tangiblity</strong><br>
+First, we have to consider who has an incentive to cater to tourists.  Most people could care less what the citizens of other countries think of the way they live their individual lives.  I don't set up a museum in my kitchen to display the subpar eating and cooking habits of American college students because it makes little difference to me what tourists think of this.  But consider an emperor or prime minister or other political elite.  <em>His job is to attain a high standard of living for his citizens relative to other countries and his ability to do so is a function of how other countries perceive him</em>.  A king respected by foreigners can more easily seek favorable trade agreements, mediate conflict, and secure decision-making power in international political bodies.  (It's true that many individuals also cater to tourists to make a living, but the "catering" I refer to here is the sharing of one's accomplishments and worldview.)  So there are much higher incentives for the political elite to cater to tourists, rather than the average citizen, <em>and </em>the political elite have many more resources to do so.
+
+Second, we have to consider tangibility.  It's not exactly easy to share a worldview.  I'd have troubling elaborating mine to an English-speaker, not to mention a Thai native.  Objects and grandeur are far easier to translate.  Translation becomes even more difficult when two cultures are separated by time as well as language.  Worldviews die with people; it is their tangible objects that live on.  We didn't inherit philosophy from the Incas; we inherited their ruins.  Now we can derive some of their philosophy from tangible objects left behind (manuscripts and such), but accessing the tangible is far easier.  This biases tourism towards focusing on those cultures that left behind the biggest, longest-lasting relics.  The Egyptian pyramids, the Palace of Versailles, Machu Picchu.  We're familiar with the ancient Egyptians, 17th century French monarchy, and the Incas because they left things behind.  American Indians?  African tribes?  Far less so.  <em>Our knowledge and interest in history is necessarily biased towards those cultures that build things that last.</em>
+
+This became particularly visceral to me when I was wandering through the numismatic (money) exhibition of the Thai National Museum.  The thought struck me: Who the hell cares about coins?  Why would anyone build an entire exhibition showcasing little pieces of metal we exchange with one another?  Wouldn't it be far more interesting to build an exhibition on early attempts at marketing, ethnocentric barriers to trade, or the history of the food market?  But it wasn't interest that mattered here.  It was what's <em>available</em> to display.  Coins are preserved; shouts from vendors, ethnic biases, and morning markets are not.
+
+This bias is also easily noticed in the acres of pottery and sculpture spanning any major museum, and the decidedly underwhelming labels like "cup; 18th century" or "spoon; 5th century BC".
+
+<strong>From Objects to Ideas</strong><br>
+So how do we uncover the <em>ideas</em> of the past?  How do we begin to learn about the <em>worldviews</em> of those across the Pacific?
+
+I've come across two useful inroads.  First, <em>integrate yourself into a culture in whatever way you can</em>.  This ranges from the small (a jog in the local park or a visit to a local pharmacy) to the large (get involved in a long-term community improvement project).  Early morning runs in new cities are one of the best ways to discover little things you'd never have seen otherwise.  I've discovered just how early Chinese laborers go to work, just how far Indian livestock farmers drive their cattle in the morning, and just how popular Tai Chi is among the elderly Chinese (and just how little younger generations care about it!).  Last summer, I had the chance to spend a month in India on a project seeking to bring clean water and better sanitation to a government slum.  I expected to learn a great deal about international development, but what surprised me was how much I learned about Indian children and the education system.  Bookstores were dominated by textbooks,  billboards were dominated by trade school advertisements, and even the fourth-graders were already choosing universities.
+
+Second, its amazing how much you can learn about worldviews when studying scientific theories.  Early theories of light were peppered with principles hinting at the hand of God.  Light was said to "know" the shortest path between to objects and to always take it.  Some left the theological extensions to the reader but others, like <a href="http://en.wikipedia.org/wiki/Pierre_Louis_Maupertuis">Maupertuis</a>, cited directly the prescience of God.  The Greeks couldn't possibly have conceived of evolution because, to them, change was decay.  Change was a movement <em>away</em> from God's perfect forms.  Early physiology (developed alongside the Industrial Revolution) is peppered with analogies of bodily systems with pipes and machines.
+
+How do you discover the ideas behind the temples?
