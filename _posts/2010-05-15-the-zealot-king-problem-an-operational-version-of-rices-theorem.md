@@ -5,7 +5,7 @@ description: "Musings on Turing machines inspired by reading Michael Sipser's 'I
 categories: [blog, science]
 modified: 2010-05-15
 image:
-  thumb: oss2010.jpg
+  thumb: king-soloman.jpg
 ---
 <img class="aligncenter size-full wp-image-680" title="religious king" src="http://djstrouse.com/images/king-solomon.jpg" alt="religious king" width="382" height="500" />
 
