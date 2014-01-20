@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: When and How Do I Learn Something?
 description: "Strategies and actions that have helped me learn and retain material."
-categories: [blog, culture]
+categories: [blog, education]
 modified: 2010-03-28
 image:
   thumb: studying.jpg
