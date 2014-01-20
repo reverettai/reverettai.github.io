@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: College: What I Did Right and Where I Screwed Up
 description: "Reflections on five years at the University of Southern California."
-categories: [blog, education]
+categories: [blog, education, highlighted]
 modified: 2011-06-01
 image:
   thumb: usc.jpg
