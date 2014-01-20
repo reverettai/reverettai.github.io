@@ -8,7 +8,7 @@
             <br>
               <ol class="post-list">
                   <lh style="text-align: center"><h2><span class="bb"><a href="/">{{ page.title }}</a></span></h2></lh>
-                  {% for post in site.posts limit:3 %}
+                  {% for post in site.categories.highlighted limit:3 %}
                   <li>
                      <a href="{{ site.url }}{{ post.url }}">
                      <div class="featured-image-small" style="background-image: url({{ site.url }}/images/{{ post.image.thumb }})">
