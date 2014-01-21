@@ -31,6 +31,6 @@ Order your groceries online. It is more convenient (no hauling groceries from to
 
 Arrive early and spend a couple of weeks settling in. Doing so before term starts ensures that you beat the crowds at banks and for various university services. It also ensures that you don’t leave your life half-organized before embarking on your research or coursework. Try also to visit colleges, museums, Grantchester, and other Cambridge sites as early as possible. The longer you are here, the more your focus and time will be absorbed by your studies, so do things early!
 
-Finally, familiarize yourself with <a href="http://www.gumtree.com/">Gumtree</a>, the UK’s equivalent of craigslist. It is, for example, the best way to pick up an inexpensive and high quality bike in Cambridge.
+Finally, familiarize yourself with Gumtree, the UK’s equivalent of craigslist. It is, for example, the best way to pick up an inexpensive and high quality bike in Cambridge.
 
 *This post is the final part of a five-part series on my first four months in Cambridge adapted from a mid-year report I submitted to the Churchill Foundation - the sponsor whose generosity is allowing me to spend one year at the University of Cambridge. It was written in January 2012.*

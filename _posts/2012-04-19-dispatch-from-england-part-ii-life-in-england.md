@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Dispatch from England - Part II
-description: "Being an American in England feels like being a golden retriever puppy at a funeral - incongruous enthusiasm."
+description: "Being an American in England feels like being a golden retriever puppy at a funeral - incongruously enthusiac."
 categories: [blog, travel, england]
 modified: 2012-04-19
 image:

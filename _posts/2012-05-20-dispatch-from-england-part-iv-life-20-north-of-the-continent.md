@@ -5,12 +5,11 @@ description: "Being £20 north of the Continent (thanks Ryanair!) necessitates f
 categories: [blog, travel, england]
 modified: 2012-05-20
 image:
-  thumb: cambridgetravel.jpg
+  thumb: britishairways.jpg
 ---
 *I recently caught up with a good friend of mine from the States with whom I often hiked in southern California. I told her that I very much missed hiking and regretted the notable lack of contour lines on maps of Cambridge and the surrounding area. She extended her sympathy and asked what I had been doing instead. I told her that I had spent a week in Budapest on a research visit, a week in Muslim Spain attending a conference and snowboarding, three days in Italy for ice climbing, two days in Munich for Christmas festivals and museums, one week in Vienna for Christmas festivals and museums, and nine days in Morocco hiking and exploring the medieval cities of Marrakesh and Fes. She retracted her offer of sympathy.*
 
-**Budapest**
-
+**Budapest**<br>
 It is hard to say whether my fondness for Budapest should be attributed to its own merit as a city or to my general longing for a big city after spending a month in the small village of Cambridge. Either way, I was very happy when my advisor extended an invitation to everyone in our group to spend one week in Budapest visiting him. Highlights of Budapest included the nighttime views of the city, the hills, the architecture, the Turkish baths, and the bakeries.
 
 The Danube River runs right through the center, dividing the city into Buda (west) and Pest (east), which were originally two separate cities that gradually grew together. Across the Danube stretch several bridges, which are all lit up spectacularly at night, along with many of the major buildings. My initial impression of the city was that it was proof that communism is a recipe for poverty and ugly buildings, but walking across the bridges after dark and pausing for views of Parliament and Castle Hill quickly reminded me that Hungary has done fairly well for itself after leaving the nest of Mother Russia.
@@ -25,8 +24,7 @@ On one weekend afternoon, I also visited one of Budapest’s lavish Turkish bath
 
 My next visit to Budapest is scheduled for early April, during which time I look forward to checking out the zoo and another bath (<a href="http://www.szechenyibath.com/">Széchenyi</a>), in addition to running in the hills again.
 
-<strong>Granada and Sierra Nevada, Spain</strong>
-
+<strong>Granada and Sierra Nevada, Spain</strong><br>
 The theoretical neuroscience community has a superb tradition of scheduling major conferences near ski resorts. Thus, my winter travels kicked off with several days in Granada at the <a href="http://nips.cc/">Neural Information Processing Systems</a> (NIPS) main conference, followed by two days of workshops (and skiing/snowboarding) in Sierra Nevada.
 
 The “Neural Information Processing Systems Foundation” was founded 25 years ago as the first and only (at the time) professional society devoted to theoretical and computational neuroscience. Since then, the “NIPS” conference has gradually drifted more towards research in machine learning.[[^3]] Many theoretical and computational neuroscientists see this as a “hijacking” of a conference they founded and nurtured, but others (including myself) see it as an opportunity to get an update on the latest in machine learning, while simultaneously meeting up with the few neuroscientists who still attend.[[^4]]
@@ -47,8 +45,7 @@ Despite the (relatively) relaxed pace of the conference for me, I found myself s
 
 All in all, I would say that I benefitted greatly from the conversations, posters, tutorials, and location of NIPS, but that the lack of neuroscience at the workshops was a bit disappointing. Although I would not consider NIPS a “must-see” for me, I will likely drop in periodically when working on an appropriate project.
 
-<strong>Torino &amp; the foothills of the Alps, Italy</strong>
-
+<strong>Torino & the foothills of the Alps, Italy</strong><br>
 The first serious research opportunity I was ever given was for a summer internship at the <a href="http://www.isi.it/">Institute for Scientific Interchange</a> in Torino, Italy with USC physics Professor <a href="http://physics.usc.edu/Faculty/Zanardi/">Paolo Zanardi</a>. In addition to hooking me on science, Paolo also introduced me to mountaineering and the Alps. Ever since that summer, I have been looking for opportunities to return and when Paolo heard I would be in England for the year, he invited me to fly out to Torino for a couple of days of ice climbing in the foothills of the Alps. We were joined by a childhood friend of Paolo and our expert mountain guide <a href="http://www.x3mmountainguides.com/">Muyo</a>, who had also led our initial mountaineering trip in the Alps.
 
 Like any proper Italian outing, each of days began at a café with espresso, cigarettes, and croissants and was, in remarkable incongruence with the physically demanding sport we were pursing, dotted with frequent cigarette breaks. The ice park we climbed in was absolutely stunning. Massive icicles and icy stalagmites formed an intricate, deep blue playground that I could have spent (and did spend!) hours staring at.[[^8]]
@@ -61,8 +58,7 @@ Our day finished with (what else?) espresso, wine, and cigarettes, followed by d
 
 The next day was spent conquering three different (and more difficult) faces of the same ice sheet we had climbed the previous day. By the end of the day, I was utterly exhausted and spent a significant fraction of my time dangling pathetically from one ax, with only a rope saving me from a very unpleasant fall. Nevertheless, I did manage to make it up every climb we attempted and so left with (most of) my dignity intact.
 
-<strong>Munich, Germany</strong>
-
+<strong>Munich, Germany</strong><br>
 My winter travels next took a marked turn for the urban. Courtesy of a night train from Torino, I met fellow Churchill Scholar Samantha Strasser in Munich where we spent the next two days exploring Christmas markets and museums.
 
 Since I arrived a few hours before Sam, I first visited Dachau, the first Nazi concentration camp in Germany, after which all subsequent camps were modeled. Less than half an hour outside the city center and free to all visitors, Dachau was one of the most powerful museums I have visited. Virtually the entire site, from the bunkhouses and work yards to the gas chambers and crematoria were open to the public. The combination of the (excellent) audio tour and bitter cold and snow that day made the experience even more, well, depressing (which, in this context, felt appropriate).
@@ -79,8 +75,7 @@ The next day we were led on a 4-hour tour of the town by a flamboyantly gay, bla
 
 The remainder of Sam and I’s time in Munich was spent pursuing Glühwein, smoked fish, and hearth-baked bread in the Christkindlmarkten.
 
-<strong>Vienna, Austria</strong>
-
+<strong>Vienna, Austria</strong><br>
 The next morning (December 23) we took a train to Vienna. True to form, the German trains arrived and departed precisely on time, contrary to those of some other countries.[[^10]] We had decided to spend a week in Vienna, after a friend at Churchill, Frederica Stahl, had offered her family’s apartment while they were spending the holidays in New York City.[[^11]] Thankful to have free housing, we were unprepared when we found that we were staying in a three-story penthouse overlooking the former summer palace of Prince Eugene of Savoy. We decided immediately that we were slightly indebted to the Stahl family and spent the remainder of the week buying them gifts to assuage our embarrassment (of riches).
 
 Also meeting us in Vienna were another Churchill Scholar Jonathan Wang and another Churchill student Sherry Gong. Our first day there was spent checking out the Christkindlmarkten, which were similar in spirit to those of Munich.
@@ -103,12 +98,10 @@ The ultimate (in both senses of the word) highlight of our visit to Vienna was a
 
 After a week of luxurious Viennese living, we finally packed our bags, arranged a pile of wrapped gifts and thank you notes for the Stahls, and headed to London for New Years’ Eve.
 
-<strong>London, England</strong>
-
+<strong>London, England</strong><br>
 Unfortunately, I awoke that morning with a cold and decided not to stick around London for midnight. After meeting several friends from Churchill for a dim sum dinner, I caught the train back to Cambridge. I was not too disappointed with my fate, however, as the overwhelmingly large (and drunk) crowds deter me from wanting to ever spend a New Years’ Eve in London anyways. I spent the next two days nursing my cold and preparing for my trip to Morocco.
 
-<strong>Marrakesh, Fes, and the Atlas Mountains, Morocco</strong>
-
+<strong>Marrakesh, Fes, and the Atlas Mountains, Morocco</strong><br>
 Joining me for this 9-day trip were fellow Churchill Scholars Alicia Schep and Ethan Schaler. Our trip included three days of hiking in the Atlas Mountains, two days each exploring the medieval cities of Marrakesh and Fes, and two days riding trains between the two cities.
 
 The time we spent in the mountains was the unanimous highlight of our trip. Our trek took us through Berber villages, snowy mountain passes, and terraced farms, and along snaking rivers and high mountain ridges. <a href="http://www.atlastrekshop.com/">For 150 euros per person</a>, we received a private taxi to and from Marrakesh, accommodations in Berber guesthouses, all meals, two mules, a muleteer, a cook, and a guide. Though we had some idea of what we paid for in advance, the luxury far exceeded our expectations, to the point that we were actually quite embarrassed on the first day when we found out that we had a 1:1 ratio of support staff to hikers, that the mules could carry everything, and that the cook was going to make us hot meals even on the trail. Furthermore, it turned out that the Berber guesthouses, which we were expecting to be no more than a mat on a floor, possibly amidst goats, actually had hot showers, toilets, beds, and satellite TV. Thus, our second night was spent watching Bollywood movies and Rambo II. Our embarrassment of riches felt slightly less undeserved on the second and third days, during which our journey included some serious elevation gain.
