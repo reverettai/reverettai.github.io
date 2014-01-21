@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Itinerant Science: Out of the Office and into the Wild
+title: Itinerant Science - Out of the Office and into the Wild
 description: "How should we define and measure randomness?"
 categories: [blog, science]
 modified: 2009-07-15

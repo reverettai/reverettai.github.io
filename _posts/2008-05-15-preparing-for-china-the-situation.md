@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Preparing for China: The Situation
+title: Preparing for China - The Situation
 description: "I'm being paid to work in Shanghai for the summer and I'm gonna write about it."
 categories: [blog, travel, china]
 modified: 2008-05-15

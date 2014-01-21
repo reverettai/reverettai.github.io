@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Summiting Monte Rosa: Cults, Thoughts, and Chocolate at 4500m
+title: Summiting Monte Rosa - Cults, Thoughts, and Chocolate at 4500m
 description: "What went through my mind climbing my first glacier in the Italian Alps."
 categories: [blog, travel, highlighted]
 modified: 2009-07-29

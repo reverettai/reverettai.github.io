@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Hangzhou: The Adventure that Was Going to Be, Would Have Been, Should Have Been, and then Could Have Been
+title: Hangzhou - The Adventure that Was Going to Be, Would Have Been, Should Have Been, and then Could Have Been
 description: "A weekend in Hangzhou with the other USC Global Fellows."
 categories: [blog, travel, china]
 modified: 2008-06-19

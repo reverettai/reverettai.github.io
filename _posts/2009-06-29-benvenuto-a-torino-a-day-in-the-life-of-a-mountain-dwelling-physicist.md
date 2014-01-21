@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Benvenuto a Torino: A Day in the Life of a Mountain-Dwelling Physicist
+title: Benvenuto a Torino - A Day in the Life of a Mountain-Dwelling Physicist
 description: "That time I lived in the foothills of the Italian Alps for the summer."
 categories: [blog, travel, italy]
 modified: 2009-06-29

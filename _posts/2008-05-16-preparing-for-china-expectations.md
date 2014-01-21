@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Preparing for China: Expectations
+title: Preparing for China - Expectations
 description: "What I expect for my summer internship in Shanghai."
 categories: [blog, travel, china]
 modified: 2008-05-16

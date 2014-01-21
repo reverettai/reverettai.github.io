@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Luoyang: The China that Doesn't Speak English
+title: Luoyang - The China that Doesn't Speak English
 description: "A weekend trip to Luoyang for mountains, temples, and crypts."
 categories: [blog, travel, china]
 modified: 2008-07-10
