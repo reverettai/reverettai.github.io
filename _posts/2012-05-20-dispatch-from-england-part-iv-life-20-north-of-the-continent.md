@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Dispatch from England - Part IV
-description: "Life £20 North of the Continent"
+description: "Being £20 north of the Continent (thanks Ryanair!) necessitates frequent travel."
 categories: [blog, travel, england]
 modified: 2012-05-20
 image:
