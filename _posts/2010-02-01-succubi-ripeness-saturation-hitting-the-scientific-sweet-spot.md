@@ -38,9 +38,9 @@ Some signs of a saturated field include:
 </ul>
 I'd wager quantum computing and neuroscience are ripe for the picking.
 
-Which fields would you add? And which criteria for identifying ripe and saturated fields would you use?
+Which fields would you add? And which criteria for identifying ripe and saturated fields would you use?
 
-{% gallery Illustrations %}
+{% gallery galleryname %}
 currentvspotential.png:: Current theory vs. potential thoughts
 saturatedscience.png:: An example of a saturated field
 ripescience.png:: An example of a ripe field
