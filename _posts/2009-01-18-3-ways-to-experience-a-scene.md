@@ -5,7 +5,7 @@ description: "The romantic, analytical, and evocative approaches to viewing a sc
 categories: [blog, culture]
 modified: 2009-01-18
 image:
-  thumb: naturelooking.jpg
+  thumb: agata.jpg
 ---
 You're walking through the forest with a friend. You pass a stream bubbling and curling around a few rocks and think, "That's nice" and continue on. But your friend has stopped.  She's captivated by the swirling eddy currents. You think again, "Well, it's nice, but not <em>that</em> nice. Let's keep going so we can get to the lookout point at the end of the trail!"
 
