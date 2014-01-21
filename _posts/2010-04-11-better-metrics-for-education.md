@@ -9,7 +9,8 @@ image:
 ---
 Have you ever taken a standardized test in your life that you thought properly measured the skill it was trying to test?  Ever in your daily work found yourself thinking, "Wow!  This job is just like that test I took in high school!"?  Unless you make your living as a <a href="https://www.mturk.com/mturk/welcome">Mechanical Turk</a>, probably not.  Standardized tests seem to be almost universally regarded as artificial, but what exactly is it about them that is so far from the reality they are supposed to simulate?
 
-<strong>Why Standardized Tests are Unnatural</strong><br>
+<strong>Why Standardized Tests are Unnatural</strong>
+
 <em>Wrong temporal scale of pressure</em><br>
 Time management is an important skill in any field, but the majority of exams probe this skill on far too small a scale.  In life, time management on the order of days, weeks, and months is far more crucial to success than time management on the order of minutes and hours.  Standardized tests demand that not a minute is wasted, that essays be churned out in 20 minutes a piece, and that quantitative results be produced so fast that reflection is impossible.  Who works like that?
 
@@ -29,4 +30,4 @@ Exactly what types of metrics this competition would converge on, I don't know. 
 
 That said, there are two particular skills alluded to above that I would hope to see quickly worked in to some of the competing metrics - collaboration and long-term time management.  I've never seen a standardized test that probed either skill and yet, I can't think of any two more important to my daily success.
 
-<em>This rant was inspired by a lunchtime discussion with Phil Zager and David Livingston.  Thank you to both for providing such great conversation.</em>
+<em>This rant was inspired by a lunchtime discussion with [Phil Zager](http://www.linkedin.com/in/pzager) and [David Livingston](http://www.linkedin.com/pub/david-livingston/12/531/683).  Thank you to both for providing such great conversation.</em>

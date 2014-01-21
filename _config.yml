@@ -62,6 +62,13 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
+gallerytag:
+    dir: images
+    url: /images
+    thumb_width: 150
+    thumb_height: 150
+    columns: 4
+
 # https://github.com/mojombo/jekyll/wiki/Permalinks -- was /:categories/:title
 permalink:   /:title
 

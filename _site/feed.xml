@@ -5,7 +5,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://djstrouse.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="https://djstrouse.github.io" />
-<updated>2014-01-21T16:05:47-05:00</updated>
+<updated>2014-01-21T16:23:34-05:00</updated>
 <id>https://djstrouse.github.io/</id>
 <author>
   <name>DJ Strouse</name>
@@ -1002,9 +1002,7 @@ So if you’re a bright-eyed, bushy-tailed, naive young physicist/mathematician 
     <uri>https://djstrouse.github.io</uri>
     <email>danieljstrouse@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img class=&quot;aligncenter size-full wp-image-680&quot; title=&quot;religious king&quot; src=&quot;http://djstrouse.com/images/king-solomon.jpg&quot; alt=&quot;religious king&quot; width=&quot;382&quot; height=&quot;500&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;The Zealot King Problem&lt;/strong&gt;&lt;br /&gt;
+  <content type="html">&lt;p&gt;&lt;strong&gt;The Zealot King Problem&lt;/strong&gt;&lt;br /&gt;
 Let’s say you’re the king of a far-off land inhabited by Turing machines.  As a highly religious king, you have strict morals and lately, you’ve been frustrated to see many of your citizens acting immorally.  You’ve been especially aghast at their frequent and flagrant violation of restriction R. Restriction R isn’t a law, but you simply find its violation morally repugnant.  Your department of mad scientists has shown that Turing machines operating under restriction R are just as powerful as those that don’t, so you don’t feel bad about taking away your citizen’s privileges to break restriction R. Thus, the religious zealot you are, you do it; you declare a law that no Turing machine may violate restriction R &lt;em&gt;on any input&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Now you need to enforce your law.  You need to make a Turing machine police force that runs around testing passerbys to see whether they are upstanding, R-abiding Turing machine citizens.  Can you do it?&lt;/p&gt;
@@ -1025,15 +1023,23 @@ After an awesome course in mathematical logic with Len Adleman at USC that flirt
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Formalism &amp;amp; Proofs&lt;/strong&gt;&lt;br /&gt;
 First, let’s define two conditions that the restrictions we will consider must have.&lt;/p&gt;
-&lt;blockquote&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definition 1&lt;/span&gt;: A restriction R is &quot;gentle&quot; if for every Turing machine T, there exists another Turing machine T2 that operates under the restriction R and recognizes the same language as T.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Definition 1&lt;/u&gt;: A restriction R is “gentle” if for every Turing machine T, there exists another Turing machine T2 that operates under the restriction R and recognizes the same language as T.&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;In other words, R does not reduce the power of Turing machines.&lt;/p&gt;
-&lt;blockquote&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Definition 2&lt;/span&gt;: A restriction R is &quot;non-expiring&quot; if, given any Turing machine T and input w, there does not exist a number of steps N such that if T has run for N steps on w without halting, it is no longer possible for T to violate R.&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Definition 2&lt;/u&gt;: A restriction R is “non-expiring” if, given any Turing machine T and input w, there does not exist a number of steps N such that if T has run for N steps on w without halting, it is no longer possible for T to violate R.&lt;/em&gt;&lt;/p&gt;
+
 &lt;p&gt;In other words, R can be violated at any point in a computation and there is nothing a Turing machine can do to “lose” the opportunity to break R, besides halting.&lt;/p&gt;
-&lt;blockquote&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Lemma&lt;/span&gt;:  Given a &quot;gentle&quot; restriction R, it is possible to create a Turing machine S that never violates R and upon input &amp;lt;T,w&amp;gt;, where T is a Turing machine and w is some string in the tape alphabet of T, S simulates T on w.&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;Proof&lt;/em&gt;:
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Lemma&lt;/u&gt;:  Given a “gentle” restriction R, it is possible to create a Turing machine S that never violates R and upon input &amp;lt;T,w&amp;gt;, where T is a Turing machine and w is some string in the tape alphabet of T, S simulates T on w.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Proof&lt;/em&gt;:&lt;br /&gt;
 Its well-known that we can create a universal Turing machine U that given inputs of the type &amp;lt;T,w&amp;gt; simulates T on w (if you don’t believe me, go try to do it yourself or check out &lt;a href=&quot;http://en.wikipedia.org/wiki/Universal_Turing_machine&quot;&gt;Wikipedia&lt;/a&gt;).  By the definition of “gentle”, we can also create U2 that operates under restriction R and for inputs &amp;lt;T,w&amp;gt;, simulates T on w. This U2 is our desired S.&lt;/p&gt;
-&lt;blockquote&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;Theorem&lt;/span&gt;: Given a &quot;gentle&quot; and &quot;non-expiring&quot; restriction R, the language BEHAVED = {&amp;lt;T&amp;gt;: T is a Turing machine that does not violate R on any input} is undecideable.&lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;Proof&lt;/em&gt;:
+
+&lt;p&gt;&lt;em&gt;&lt;u&gt;Theorem&lt;/u&gt;: Given a “gentle” and “non-expiring” restriction R, the language BEHAVED = {&amp;lt;T&amp;gt;: T is a Turing machine that does not violate R on any input} is undecideable.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Proof&lt;/em&gt;:&lt;br /&gt;
 We’ll prove this by reduction to the halting problem, described by the language HALT={&amp;lt;T,w&amp;gt;: T is a Turing machine and T halts on w}.  That is, we’ll assume we have a Turing machine deciding BEHAVED and build one that decides HALT.&lt;/p&gt;
 
 &lt;p&gt;Let B be a Turing machine that decides BEHAVED.  Construct the following machine H that decides HALT.&lt;/p&gt;
@@ -1089,8 +1095,9 @@ Turing machines are robust little guys and we can come up with plenty of plenty 
   </author>
   <content type="html">&lt;p&gt;Have you ever taken a standardized test in your life that you thought properly measured the skill it was trying to test?  Ever in your daily work found yourself thinking, “Wow!  This job is just like that test I took in high school!”?  Unless you make your living as a &lt;a href=&quot;https://www.mturk.com/mturk/welcome&quot;&gt;Mechanical Turk&lt;/a&gt;, probably not.  Standardized tests seem to be almost universally regarded as artificial, but what exactly is it about them that is so far from the reality they are supposed to simulate?&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Why Standardized Tests are Unnatural&lt;/strong&gt;&lt;br /&gt;
-&lt;em&gt;Wrong temporal scale of pressure&lt;/em&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Why Standardized Tests are Unnatural&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Wrong temporal scale of pressure&lt;/em&gt;&lt;br /&gt;
 Time management is an important skill in any field, but the majority of exams probe this skill on far too small a scale.  In life, time management on the order of days, weeks, and months is far more crucial to success than time management on the order of minutes and hours.  Standardized tests demand that not a minute is wasted, that essays be churned out in 20 minutes a piece, and that quantitative results be produced so fast that reflection is impossible.  Who works like that?&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Too close to purgatory&lt;/em&gt;&lt;br /&gt;
@@ -1109,7 +1116,7 @@ So what kind of metrics do we need?  To argue for one or a few in particular wou
 
 &lt;p&gt;That said, there are two particular skills alluded to above that I would hope to see quickly worked in to some of the competing metrics - collaboration and long-term time management.  I’ve never seen a standardized test that probed either skill and yet, I can’t think of any two more important to my daily success.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;This rant was inspired by a lunchtime discussion with Phil Zager and David Livingston.  Thank you to both for providing such great conversation.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This rant was inspired by a lunchtime discussion with &lt;a href=&quot;http://www.linkedin.com/in/pzager&quot;&gt;Phil Zager&lt;/a&gt; and &lt;a href=&quot;http://www.linkedin.com/pub/david-livingston/12/531/683&quot;&gt;David Livingston&lt;/a&gt;.  Thank you to both for providing such great conversation.&lt;/em&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;https://djstrouse.github.io/better-metrics-for-education&quot;&gt;Better Metrics for Education&lt;/a&gt; was originally published by DJ Strouse at &lt;a href=&quot;https://djstrouse.github.io&quot;&gt;DJ&lt;/a&gt; on April 11, 2010.&lt;/p&gt;</content>
 </entry>
@@ -1204,7 +1211,7 @@ Figuring something out on my own can be fun, but the exciting back-and-forth tha
 
 &lt;p&gt;2) We need a measure of how difficult it is to recognize the order in an apparently random process.  Kolmogorov complexity is a good description of the compressibility of a process, but it doesn’t tell us how hard it is to recognize that minimal description.  It may be that we think a process is quite random, requires a long description length, and thus has high Kolmogorov complexity but, with just one little insight, we will find some beautiful underlying structure and our minimal description length (and Kolmogorov complexity) drop enormously.  Or it could take centuries of great thoughts to make such a simplification.  Or it might not even be possible.  That Kolmogorov complexity says nothing about the distribution of descriptions in “description space” and the ease/difficulty of discovering the minimal one seems to me to be a serious shortcoming.  A better understanding of the “difficulty of description” might give us some interesting information about scientific theory and what types are “easier” or “harder” than others to discover. &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;These thoughts are inspired by a lunchtime conversation with Henry Yuen today on the nature and importance of randomness and a conversation last week with the USC theoretical computer science lunch bunch over a long-lost, unpublished paper by Len Adleman about randomness.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;These thoughts are inspired by a lunchtime conversation with &lt;a href=&quot;Henry Yuen&quot;&gt;http://www.mit.edu/~hyuen/&lt;/a&gt; today on the nature and importance of randomness and a conversation last week with the USC theoretical computer science lunch bunch over a long-lost, unpublished paper by &lt;a href=&quot;http://en.wikipedia.org/wiki/Leonard_Adleman&quot;&gt;Len Adleman&lt;/a&gt; about randomness.&lt;/em&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;https://djstrouse.github.io/thoughts-on-randomness&quot;&gt;Thoughts on Randomness&lt;/a&gt; was originally published by DJ Strouse at &lt;a href=&quot;https://djstrouse.github.io&quot;&gt;DJ&lt;/a&gt; on February 28, 2010.&lt;/p&gt;</content>
 </entry>
@@ -1222,11 +1229,9 @@ Figuring something out on my own can be fun, but the exciting back-and-forth tha
     <uri>https://djstrouse.github.io</uri>
     <email>danieljstrouse@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;img class=&quot;aligncenter size-full wp-image-595&quot; title=&quot;JHerb Classroom&quot; src=&quot;http://djstrouse.com/images/JHerb-Classroom.JPG&quot; alt=&quot;&amp;quot;A lecture is a process in which information passes from the notes of the lecturer into the notes of the student without passing through the minds of either.&amp;quot;&quot; /&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;em&gt;A lecture is a process in which information passes from the notes of the lecturer into the notes of the student without passing through the minds of either.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;Call me a radical, but I have a growing notion that a professor spewing forth information to dozens of students playing classroom &lt;a href=&quot;http://en.wikipedia.org/wiki/Stenographer&quot;&gt;stenographer&lt;/a&gt; is perhaps not the best way to educate the next generation.  Here is my favorite idea for a better classroom experiences that I’ve pieced together from friends, my own experiences, and daydreaming in the shower.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note that, at least in this post and the motivating conversations, I’m still holding on to the assumption that learning is a process that begins at age 4-6 and ends somewhere between 22 and 30, depending on your interests and levels of masochism.  In other words, I’m assuming that learning is not a lifetime experiences interwoven into our daily lives.  I’ll delve into that possibility in future posts, but let’s keep it simple for now.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Call me a radical, but I have a growing notion that a professor spewing forth information to dozens of students playing classroom &lt;a href=&quot;http://en.wikipedia.org/wiki/Stenographer&quot;&gt;stenographer&lt;/a&gt; is perhaps not the best way to educate the next generation.  Here is my favorite idea for a better classroom experiences that I’ve pieced together from friends, my own experiences, and daydreaming in the shower.[&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;]&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Professor as Advisor&lt;/strong&gt;&lt;br /&gt;
 Parents stop reading stories to children sometime around age five or six, so why do professors continue to read textbooks and lecture notes to students until age 22?  That’s a waste of both professor and student time.  Instead, choose a topic each week, suggest some reading for students, and allow them to, by any means necessary, teach themselves.  They might read a textbook, watch some video lectures, and/or gather in small groups to discuss.  During this preparation time, students could keep track of questions that arise that they can’t work out between themselves.  To further guide students, a professor might point out several subtopics that individual students might specialize in and summarize to the others.  Once or twice a week, students would meet with a professor, discuss questions, present on their specialized subtopics and, depending on the type of course, do example problems (math/science) or brainstorm real-world examples (social sciences).  During this “class”, professors would not play “sage on a stage”, but rather more of an advisory role.  The professor might pose a problem and students would work together at the blackboard to solve it.  The professor would be there to offer guidance, suggest alternative approaches, and point out interesting examples.&lt;/p&gt;
@@ -1242,7 +1247,7 @@ Parents stop reading stories to children sometime around age five or six, so why
 &lt;ul&gt;
 	&lt;li&gt;requires motivated students&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;My personal experience is that I learn little from lectures and much more by doing and teaching.  I’m currently taking a general relativity course that is a watered-down version of this model and &lt;em&gt;I love it&lt;/em&gt;. Â Instead of dreading (or more realistically, simply skipping) a two-hour, twice-a-week course, I look forward to it. Â Each week, we go off on our own, read a book chapter, work on about five problems, and choose an interesting experiment or physical phenomena to present on. Â No homework to turn in whatsoever. Â And the result? Â Students in the class actually fight with one another over who gets to present on some examples because&lt;em&gt; it’s fun to present interesting examples you’ve worked out for yourself. &lt;/em&gt;It’s not fun to work on a half-dozen problems on your own, hand them into a mysterious wooden box, never discuss them, and receive a crumpled version of your work, annotated with a cryptic number, several weeks later.&lt;/p&gt;
+&lt;p&gt;My personal experience is that I learn little from lectures and much more by doing and teaching.  I’m currently taking a general relativity course that is a watered-down version of this model and &lt;em&gt;I love it&lt;/em&gt;. Instead of dreading (or more realistically, simply skipping) a two-hour, twice-a-week course, I look forward to it. Each week, we go off on our own, read a book chapter, work on about five problems, and choose an interesting experiment or physical phenomena to present on. No homework to turn in whatsoever. And the result? Students in the class actually fight with one another over who gets to present on some examples because&lt;em&gt; it’s fun to present interesting examples you’ve worked out for yourself. &lt;/em&gt;It’s not fun to work on a half-dozen problems on your own, hand them into a mysterious wooden box, never discuss them, and receive a crumpled version of your work, annotated with a cryptic number, several weeks later.&lt;/p&gt;
 
 &lt;p&gt;Summarizing, some key ideas that I’m suggesting need to be worked into the class experience are:&lt;/p&gt;
 &lt;ul&gt;
@@ -1253,7 +1258,13 @@ Parents stop reading stories to children sometime around age five or six, so why
 &lt;/ul&gt;
 &lt;p&gt;Thoughts?&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;(Image above from Blair Kathleen Kelley at&lt;a href=&quot;http://students.ou.edu/K/Blair.K.Kelley-1/&quot;&gt;http://students.ou.edu/K/Blair.K.Kelley-1/&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Note that, at least in this post and the motivating conversations, I’m still holding on to the assumption that learning is a process that begins at age 4-6 and ends somewhere between 22 and 30, depending on your interests and levels of masochism.  In other words, I’m assuming that learning is not a lifetime experiences interwoven into our daily lives.  I’ll delve into that possibility in future posts, but let’s keep it simple for now. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 
   &lt;p&gt;&lt;a href=&quot;https://djstrouse.github.io/whats-your-ideal-classroom-experience&quot;&gt;What's Your Ideal Classroom Experience?&lt;/a&gt; was originally published by DJ Strouse at &lt;a href=&quot;https://djstrouse.github.io&quot;&gt;DJ&lt;/a&gt; on February 20, 2010.&lt;/p&gt;</content>
 </entry>

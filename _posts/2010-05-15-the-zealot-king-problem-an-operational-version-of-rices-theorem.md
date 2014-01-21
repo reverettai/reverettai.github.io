@@ -7,8 +7,6 @@ modified: 2010-05-15
 image:
   thumb: king-solomon.jpg
 ---
-<img class="aligncenter size-full wp-image-680" title="religious king" src="http://djstrouse.com/images/king-solomon.jpg" alt="religious king" width="382" height="500" />
-
 <strong>The Zealot King Problem</strong><br>
 Let's say you're the king of a far-off land inhabited by Turing machines.  As a highly religious king, you have strict morals and lately, you've been frustrated to see many of your citizens acting immorally.  You've been especially aghast at their frequent and flagrant violation of restriction R. Restriction R isn't a law, but you simply find its violation morally repugnant.  Your department of mad scientists has shown that Turing machines operating under restriction R are just as powerful as those that don't, so you don't feel bad about taking away your citizen's privileges to break restriction R. Thus, the religious zealot you are, you do it; you declare a law that no Turing machine may violate restriction R <em>on any input</em>.
 
@@ -30,15 +28,23 @@ I post this little result here for several reasons:
 </ol>
 <strong>Formalism & Proofs</strong><br>
 First, let's define two conditions that the restrictions we will consider must have.
-<blockquote><span style="text-decoration: underline;">Definition 1</span>: A restriction R is "gentle" if for every Turing machine T, there exists another Turing machine T2 that operates under the restriction R and recognizes the same language as T.</blockquote>
+
+*<u>Definition 1</u>: A restriction R is "gentle" if for every Turing machine T, there exists another Turing machine T2 that operates under the restriction R and recognizes the same language as T.*
+
 In other words, R does not reduce the power of Turing machines.
-<blockquote><span style="text-decoration: underline;">Definition 2</span>: A restriction R is "non-expiring" if, given any Turing machine T and input w, there does not exist a number of steps N such that if T has run for N steps on w without halting, it is no longer possible for T to violate R.</blockquote>
+
+*<u>Definition 2</u>: A restriction R is "non-expiring" if, given any Turing machine T and input w, there does not exist a number of steps N such that if T has run for N steps on w without halting, it is no longer possible for T to violate R.*
+
 In other words, R can be violated at any point in a computation and there is nothing a Turing machine can do to "lose" the opportunity to break R, besides halting.
-<blockquote><span style="text-decoration: underline;">Lemma</span>:  Given a "gentle" restriction R, it is possible to create a Turing machine S that never violates R and upon input &lt;T,w&gt;, where T is a Turing machine and w is some string in the tape alphabet of T, S simulates T on w.</blockquote>
-<em>Proof</em>:
+
+*<u>Lemma</u>:  Given a "gentle" restriction R, it is possible to create a Turing machine S that never violates R and upon input <T,w&gt;, where T is a Turing machine and w is some string in the tape alphabet of T, S simulates T on w.*
+
+<em>Proof</em>:<br>
 Its well-known that we can create a universal Turing machine U that given inputs of the type &lt;T,w&gt; simulates T on w (if you don't believe me, go try to do it yourself or check out <a href="http://en.wikipedia.org/wiki/Universal_Turing_machine">Wikipedia</a>).  By the definition of "gentle", we can also create U2 that operates under restriction R and for inputs &lt;T,w&gt;, simulates T on w. This U2 is our desired S.
-<blockquote><span style="text-decoration: underline;">Theorem</span>: Given a "gentle" and "non-expiring" restriction R, the language BEHAVED = {&lt;T&gt;: T is a Turing machine that does not violate R on any input} is undecideable.</blockquote>
-<em>Proof</em>:
+
+*<u>Theorem</u>: Given a "gentle" and "non-expiring" restriction R, the language BEHAVED = {&lt;T&gt;: T is a Turing machine that does not violate R on any input} is undecideable.*
+
+<em>Proof</em>:<br>
 We'll prove this by reduction to the halting problem, described by the language HALT={&lt;T,w&gt;: T is a Turing machine and T halts on w}.  That is, we'll assume we have a Turing machine deciding BEHAVED and build one that decides HALT.
 
 Let B be a Turing machine that decides BEHAVED.  Construct the following machine H that decides HALT.

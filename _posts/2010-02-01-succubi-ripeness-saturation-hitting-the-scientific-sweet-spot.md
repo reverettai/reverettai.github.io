@@ -15,21 +15,10 @@ Most young knowledge warriors charge straight at whichever field their best teac
 
 Science can certainly be a cruel succubus, but considering one important feature of a field before hopping on the bandwagon can help avoid this.
 
-<strong>Ripeness and Saturation: The Potential of a Science</strong>
-<img src ="djstrouse.com/images/currentvspotential.png""
-alt="Current vs Potential" align="center" width="452" height="341"
-title="Current vs Potential" class="img"</img>
+<strong>Ripeness and Saturation: The Potential of a Science</strong><br>
 The key is to compare the current set of ideas with the potential for developing new ones given available data, tools for acquiring data, and culture.  Too little new available data, too few tools for acquiring data, or cultural norms that enforce old paradigms can all hinder the potential for interesting projects.  Quantum gravity might be an instance of the first two shortages whereas 16th century astronomy (influenced by the church doctrine of a geocentric universe) is a good example of the last.  Let's call these <em>saturated fields.</em>
 
-<img src ="djstrouse.com/images/saturatedscience.png""
-alt="Saturated Science" align="center"
-title="Saturated Science" class="img"</img>
-
 On the flip side, an abundance of data, the invention of tools for acquiring new data, or changing cultural norms can all provide opportunities for great projects.  Genomics is experiencing the first two surpluses whereas complex systems research in the early years of the internet (and the metaphors about networks that accompanied it) probably benefited greatly from cultural shifts.  Let's call these <em>ripe fields</em>.
-
-<img src ="djstrouse.com/images/ripescience.png""
-alt="Ripe Science" align="center"
-title="Ripe Science" class="img"</img>
 
 Your mission, young sailor of the scientific seas, is to find one of these gems.
 
@@ -43,10 +32,16 @@ Now, how can you tell?  You can't be sure, but here are some good signs:
 </ul>
 Some signs of a saturated field include:
 <ul>
-	<li>SystematizedÂ jargon (new ideas and discoveries get ID numbers rather than names)</li>
+	<li>Systematized jargon (new ideas and discoveries get ID numbers rather than names)</li>
 	<li>A large percentage of new papers are written to make small corrections on old ones (the field has become recursive).</li>
 	<li>There are introductory textbooks in their twelfth edition and most professors use the same text to teach as they did to learn.</li>
 </ul>
 I'd wager quantum computing and neuroscience are ripe for the picking.
 
-Which fields would you add? Â And which criteria for identifying ripe and saturated fields would you use?
+Which fields would you add? And which criteria for identifying ripe and saturated fields would you use?
+
+{% gallery Illustrations %}
+currentvspotential.png:: Current theory vs. potential thoughts
+saturatedscience.png:: An example of a saturated field
+ripescience.png:: An example of a ripe field
+{% endgallery %}
