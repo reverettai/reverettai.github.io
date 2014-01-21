@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: The Dematerialization (and Digitization) of Life or "Hey, Where'd All My Stuff Go?"
+title: The Dematerialization of Life or "Hey, Where'd All My Stuff Go?"
 description: "One unexpected consequence of the digital age - no objects to evoke memories."
 categories: [blog, culture]
 modified: 2010-04-06

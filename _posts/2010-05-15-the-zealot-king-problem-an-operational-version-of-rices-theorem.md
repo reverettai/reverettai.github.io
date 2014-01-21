@@ -1,11 +1,11 @@
 ---
 layout: post-light-feature
 title: The Zealot King Problem & An Operational Version of Rice's Theorem
-description: "Musings on Turing machines inspired by Sipser's 'Introduction to the Theory of Computation'"
+description: "Musings on Turing machines inspired by Sipser's 'Introduction to the Theory of Computation.'"
 categories: [blog, science]
 modified: 2010-05-15
 image:
-  thumb: king-solomon.jpg
+  thumb: king-soloman.jpg
 ---
 <img class="aligncenter size-full wp-image-680" title="religious king" src="http://djstrouse.com/images/king-solomon.jpg" alt="religious king" width="382" height="500" />
 
