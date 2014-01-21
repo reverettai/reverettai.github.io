@@ -5,7 +5,7 @@ description: "Musings on Turing machines inspired by Sipser's 'Introduction to t
 categories: [blog, science]
 modified: 2010-05-15
 image:
-  thumb: king-soloman.jpg
+  thumb: king-solomon.jpg
 ---
 <img class="aligncenter size-full wp-image-680" title="religious king" src="http://djstrouse.com/images/king-solomon.jpg" alt="religious king" width="382" height="500" />
 
