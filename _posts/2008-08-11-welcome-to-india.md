@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
 title: Welcome to India
-description: "In the midst of trying to bring clean water to an Indian village."
+description: "The (mis)adventures of USC students trying to bring clean water to an Indian village."
 categories: [blog, travel, india]
 modified: 2008-08-11
 image:

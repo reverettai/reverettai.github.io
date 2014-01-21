@@ -1,6 +1,6 @@
 ---
 layout: post-light-feature
-title: Hangzhou - The Adventure that Was Going to Be, Would Have Been, Should Have Been, and then Could Have Been
+title: Hangzhou - The Adventure that Was Going to Be
 description: "A weekend in Hangzhou with the other USC Global Fellows."
 categories: [blog, travel, china]
 modified: 2008-06-19
@@ -26,6 +26,7 @@ Thank God!  They had rooms.
 <strong>The Adventure That Would Have Been</strong><br>
 Unfortunately, renting a room in China requires an original passport - something I had not known and Brian had assumed could be solved with a mere copy of his passport.  We tried doe eyes to elicit some foreigner sympathy.  No go.  Next we tried bribing the hotel across the street with an upwardly-adjusted 'special rate'.  Another no go.
 We resigned ourselves to the idea that we were now on a day trip and headed back to the hostel to rent bikes, delighted to find out that they were free with a security deposit (or 'mianfei').  Earlier that day, I had yelled at a man for offering me a bike rental for a 300RMB 'mianfei', assuming it meant 'hefty fee for wealthy white foreigner'.  My apologies if he reads this.
+
 As we emptied the necessities from our backpacks so that we could store them at the hostel during our ride, I found a surprise at the bottom of my pack - my passport.
 
 <strong>The Adventure That Should Have Been</strong><br>
