@@ -11,7 +11,6 @@ This summer, I will be interning for an international sales and marketing compan
 
 **The People**<br>
 My impression of Shanghai is that its the 'London of the East' (or maybe the 'Hong Kong of a bit farther West'). I expect that most of the people I will meet will be multilingual expats who did not grow up in Shanghai but moved there seeking great opportunity. I assume most will work for banks and consulting companies. I don't expect good scientific conversation but I do expect to encounter minds eager to probe global economic trends. I expect that a growing city like Shanghai also won't foster an active community of social entrepreneurs. I therefore don't expect much conversation on social entrepreneurship either[[^1]].
-[^1]: Note: Much of my time back at university is spent working on international water projects in Honduras and India with Engineers Without Borders and the Deshpande Foundation, respectively.
 
 I expect to find a large socioeconomic divide. I expect to encounter many disenchanted villagers from outside the city who came seeking livlihoods but are either unemployed or subsisting on lower wages than expected. At the same time, I expect to meet many extremely wealthy young Chinese who see Shanghai as a dream city.
 
@@ -46,3 +45,5 @@ Six other USC students will be traveling with me; sophomore economics major Bria
 I expect that we'll all grow extremely close by the end of the trip. I expect Chris and Brian to search out every networking opportunity they can find. I expect to spend Friday nights with Brian, schmoozing the Jewish community of Shanghai at the local Chabad house. I expect that each of them will join me for at least one weekend foray out of the city.
 
 I leave this post open to revision for the next two weeks, but on May 29, the day I leave, I'm foregoing further edits and leaving this as a relic of my naivity.
+
+[^1]: Note: Much of my time back at university is spent working on international water projects in Honduras and India with Engineers Without Borders and the Deshpande Foundation, respectively.
