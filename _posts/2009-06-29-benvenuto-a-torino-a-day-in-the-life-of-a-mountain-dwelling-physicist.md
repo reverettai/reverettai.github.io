@@ -5,7 +5,7 @@ description: "That time I lived in the foothills of the Italian Alps for the sum
 categories: [blog, travel, italy]
 modified: 2009-06-29
 image:
-  thumb: isiview.jpg
+  thumb: isidesk.jpg
 ---
 Despite my lack of planning, Italian fluency, sense of direction, or luggage, I have successfully navigated my way to Torino, Italy to spend the next five weeks living on a mountain, doing physics, climbing glaciers, and eating gelato.  To explain this strange lifestyle, I invite you to join me on a typical day.
 
