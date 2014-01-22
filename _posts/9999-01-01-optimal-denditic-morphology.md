@@ -5,6 +5,7 @@ description: "What is the optimal dendritic morphology for an online recognition
 category: project
 modified: 2014-01-18
 tags: [memory, recognition memory, synapses, dendrites, dendritic morphology, dendritic structure, dendritic tree, projects]
+comments: true
 image:
   thumb: bartlettthumb.jpg
 ---

@@ -5,6 +5,7 @@ description: "What is special about the small fraction of ingredient combination
 category: project
 modified: 2014-01-16
 tags: [statistics, recipes, information theory, entropy, culturomics, projects]
+comments: true
 image:
   thumb: recipentropy.jpg
 ---

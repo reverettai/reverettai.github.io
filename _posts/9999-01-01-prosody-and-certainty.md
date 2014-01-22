@@ -5,6 +5,7 @@ description: "What features of the human voice convey confidence?"
 category: project
 modified: 2014-01-16
 tags: [psychology, linguistics, bayesian, confidence, certainty, uncertainty, pitch, volume, voice, projects]
+comments: true
 image:
   thumb: prosodythumb.jpg
 ---
