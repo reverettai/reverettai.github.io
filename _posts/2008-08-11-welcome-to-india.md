@@ -5,7 +5,7 @@ description: "The (mis)adventures of USC students trying to bring clean water to
 categories: [blog, travel, india]
 modified: 2008-08-11
 image:
-  thumb: hubli.jpg
+  thumb: hublikids.jpg
 ---
 My return to the blogosphere has been triggered by two events: my discovery of a reliable internet connection & the coming of monsoon season.
 
