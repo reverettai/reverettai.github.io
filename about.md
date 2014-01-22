@@ -22,3 +22,7 @@ If you’re looking for a CV, you can get your fix [here](https://djstrouse.gith
 ## <center><a href="https://github.com/djstrouse" target="_blank"><i class="icon-github"></i> GitHub</a></center>
 
 ## <center><a href="https://twitter.com/djstrouse" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
+
+## <center><a href="https://www.tripit.com/people/djstrouse" target="_blank"><i class="icon-tripit-sign"></i> TripIt</a></center>
+
+## <center><a href="http://www.yelp.com/user_details?userid=2KcuwWPvsdSMEWW_6CYYpg" target="_blank"><i class="icon-yelp-sign"></i> Yelp</a></center>
