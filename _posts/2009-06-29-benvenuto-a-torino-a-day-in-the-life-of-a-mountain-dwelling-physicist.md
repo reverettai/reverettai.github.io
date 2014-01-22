@@ -10,7 +10,7 @@ image:
 Despite my lack of planning, Italian fluency, sense of direction, or luggage, I have successfully navigated my way to Torino, Italy to spend the next five weeks living on a mountain, doing physics, climbing glaciers, and eating gelato.  To explain this strange lifestyle, I invite you to join me on a typical day.
 
 <strong>Hermit on a Hill</strong>
-<img src="http://djstrouse.com/images/isiroomview.jpg" alt="My Kingdom" title="My Kingdom" class="alignleft size-full wp-image-325" />
+<img src="http://djstrouse.com/images/isiroomview.jpg" alt="My Kingdom" title="My Kingdom" />
 
 Everyday I wake up to this view.  I live atop a mountain just east of the Po River at the <a href="villagualino.net/">Villa Gualino Hotel and Conference Center</a>.  If you've never lived in a conference center (I had not), you probably do not appreciate the vast, diverse, and strange reasons that people might hold a conference.  While I can't always read the Italian signs declaring their official titles, conferences thus far seem to have been themed: "Old British Women Watching Movies About Buddhism", "Elderly Men with Nice Cars, Model Wives, and a Keen Interest in Fireworks", and, perhaps the most legitimate scientifically, "At the Roots of Complexity: The Emergence of Structures in Matter, Brain, Life, Language" (more on that in a moment).
 
@@ -21,14 +21,14 @@ The <a href="http://www.isi.it/">Institute for Scientific Interchange Foundation
 
 The name of the game at the ISI Foundation is interdisciplinary  collaboration.  ISI has no permanent faculty and was founded originally only to host conferences, later expanding to include more long-term project groups as well.  This leads to a fantastic atmosphere for seminars and lunch conversations.  I'm still amazed that most universities wall off their departments from one another like little independent nations with no foreign relations.  It's quite easy for a physicist or mathematician or computer scientist to go a year or more without serious scientific discussion with someone from another department.  That must change.  Not only is science more productive when scientists reach out to other disciplines for advice, it's a heck of a lot more fun.  The week I arrived brought together neuroscientists, linguists, and statistical physicists to trade ideas on the complex workings of the brain.  Given my interests, they might as well have laid out a red carpet with my name on it.  This week brings the <a href="http://www.ht2009.org/">ACM Conference on Hypertext and Hypermedia</a>.
 
-<img src="http://djstrouse.com/images/isidesk.jpg" alt="My Desk" title="My Desk" class="alignright size-full wp-image-327" />
+<img src="http://djstrouse.com/images/isidesk.jpg" alt="My Desk" title="My Desk" />
 
 I'm not one for offices so I spend most of my time stretched out on a couch in the lobby or outside on the veranda.  There are, however, certainly reasons I can be convinced to hang out in an office and one of those is private teaching sessions from damn fine physicists.  This week, I'll be drawn back in for a series of seminars by the quantum info group, essentially to catch me up on what they are working on.  I have a notion of the project I'll be working on (and it's <em>really</em> cool) but I'll save that for its own post later this week.
 
 <strong>Leaving the Nest</strong><br>
 The sun doesn't go down until after 9pm in the summers here.  Coupled with the intense focus that most people bring to work at ISI, it's easy to not leave the Institute until 8 or 9pm.  Fortunately, my evening "commute" involves about a dozen stairs because ISI is located directly next to the hotel.
 
-<img src="http://djstrouse.com/images/CIMG6489.JPG" alt="The Beverly Hills of Italy" title="The Beverly Hills of Italy" class="alignleft size-full wp-image-328" />
+<img src="http://djstrouse.com/images/torinohills.jpg" alt="The Beverly Hills of Italy" />
 
 Now physicists aren't quite known for their physical prowess, but the quantum info group here is a notable exception.  Most evenings, four of us will sadistically jog our way directly up the mountain.  When it comes to running, I'm essentially a domesticated animal as I do most of my running indoors on a treadmill back home at USC due to a complete lack of nature trails.  Gradually, however, I'm being reintroduced to the wild.  The epic views of the "Beverly Hills" of Italy are a nice incentive.
 
