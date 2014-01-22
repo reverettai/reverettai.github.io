@@ -5,7 +5,7 @@ description: "What went through my mind climbing my first glacier in the Italian
 categories: [blog, travel, highlighted]
 modified: 2009-07-29
 image:
- thumb: capannamargherita.jpg
+  thumb: capannamargherita.jpg
 ---
 <strong>Day 0: Do I Need to Wear Pants?</strong><br>
 When a group of researchers at ISI invited me to come climb a glacier with them, I had very little preconception of what that actually meant. I tend to be naive about challenges, thinking, "oh boy, that sounds like fun!" long before "wait, how am I actually going to do that?" Though I knew before leaving the States that I'd likely be "climbing a glacier" when I reached Torino, I still packed exactly zero pairs of long pants, long socks, or any other remotely appropriate pieces of clothing or equipment. Like a six-year old boy heading to Disney World, I spent my time in gleeful anticipation and left the prep work to "the adults." Fortunately, they responsibly prevented me from hacking up the mountain with gym shorts and a butter knife and outfitted me into the proper, burly-looking, mountain man you see above.
