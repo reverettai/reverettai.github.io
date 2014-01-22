@@ -11,7 +11,7 @@ I entertained ideas of becoming a filmmaker, sherpa, and professional chef befor
 
 I studied physics and math at the [University of Southern California](http://www.usc.edu/), spent a year at the [University of Cambridge](http://www.cam.ac.uk/)’s [Computational and Biological Learning Laboratory](http://learning.eng.cam.ac.uk/Public/) on a [Churchill Scholarship](http://www.winstonchurchillfoundation.org/), and am now a PhD student in physics at [Princeton University](http://www.princeton.edu/) on a [Hertz Fellowship](http://www.hertzfoundation.org) and [DoE Computational Sciences Graduate Fellowship](http://www.krellinst.org/csgf/). I work with [Bill Bialek](http://www.princeton.edu/~wbialek/wbialek.html) and [Carlos Brody](http://brodylab.org/).
 
-If you’re looking for a CV, you can get your fix [here](https://djstrouse.github.io/DJStrouseCV.pdf). If you want to get in touch, you can try [my email](mailto:danieljstrouse@gmail.com) or the following places around the interwebs:
+If you’re looking for a CV, you can get your fix [here](https://djstrouse.com/downloads/DJStrouseCV.pdf). If you want to get in touch, you can try [my email](mailto:danieljstrouse@gmail.com) or the following places around the interwebs:
 
 ## <center><a href="https://facebook.com/djstrouse" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></center>
 
