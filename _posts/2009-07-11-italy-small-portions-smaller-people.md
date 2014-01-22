@@ -5,12 +5,9 @@ description: "Why are Americans, and their plates, so large?"
 categories: [blog, travel, italy]
 modified: 2009-07-11
 image:
-  thumb: grom.jpg
+  thumb: gromgelato.jpg
 ---
-<img class="aligncenter size-medium wp-image-373" title="Grom" src="http://djstrouse.com/images/CIMG6506-300x224.jpg" alt="Grom" width="300" height="224" />
-<img class="aligncenter size-medium wp-image-372" title="Cold Stone" src="http://djstrouse.com/images/cold-stone-300x215.jpg" alt="Cold Stone" width="300" height="215" />
-
-Ladies and gentlemen of the jury, one of the above ice cream delights is from Grom gelateria in Italy, the other from Cold Stone Creamery in the United States.  Without reading the labels, can you guess which is which?
+Ladies and gentlemen of the jury, one of [these](http://www.djstrouse.com/images/coldstone.jpg) [two](http://www.djstrouse.com/images/gromgelato.jpg) ice cream delights is from Grom gelateria in Italy, the other from Cold Stone Creamery in the United States.  Without reading the labels, can you guess which is which?
 
 If an alien life form visited the Earth, he might conclude that Americans are some kind of storage vessels for large amounts of food and energy, perhaps bred to preserve the entire species in times of scarcity.  Yet it seems fairly unlikely that we are preparing for such harsh times.  So what are we doing?
 
