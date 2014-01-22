@@ -7,11 +7,11 @@ modified: 2008-06-12
 image:
   thumb: huangshan.jpg
 ---
-*Accompanying pictures available <a href="http://picasaweb.google.com/nomad2124/Huangshan">here</a>.
+*Accompanying pictures available <a href="http://picasaweb.google.com/nomad2124/Huangshan">here</a>.*
 
 6 hours on a bus, 3 hours in a taxi, 10 hours on a mountain, and 13 hours on a train. All for what? A breath of fresh air and a worthy blog post.
 
-Last Thursday, a combination of boredom, bad air circulation in my office building, and my fortuitous discovery of the Chinese martyr poet <a href="http://en.wikipedia.org/wiki/Qu_Yuan">Qu Yuan</a> and the <a href="http://en.wikipedia.org/wiki/Dragon_Boat_Festival">holiday weekend</a> that honors him drove me to search the web for something to climb within public transportation distance of Shanghai. <a href="http://www.huangshantour.com/english/SmallClass.asp?typeid=16&amp;BigClassID=18&amp;smallclassid=411">Huangshan</a> (Yellow Mountain) was the immediate <a href="http://images.google.com/images?hl=en&amp;q=huangshan&amp;btnG=Search+Images&amp;gbv=2">front runner</a>.
+Last Thursday, a combination of boredom, bad air circulation in my office building, and my fortuitous discovery of the Chinese martyr poet <a href="http://en.wikipedia.org/wiki/Qu_Yuan">Qu Yuan</a> and the <a href="http://en.wikipedia.org/wiki/Dragon_Boat_Festival">holiday weekend</a> that honors him drove me to search the web for something to climb within public transportation distance of Shanghai. <a href="http://en.wikipedia.org/wiki/Huangshan">Huangshan</a> (Yellow Mountain) was the immediate <a href="http://images.google.com/images?hl=en&amp;q=huangshan&amp;btnG=Search+Images&amp;gbv=2">front runner</a>.
 
 After an epic scamper all over Shanghai by Lena and hijacking of my boss' secretary's translation skills by me, we had Saturday morning bus tickets to the nearby city of Tunxi (base camp), 2 nights at a family-run apartment B&B, and a night train back to Shanghai Monday night.
 
