@@ -15,7 +15,7 @@ A <a href="http://blogs.wnyc.org/radiolab/2008/11/18/choice/">recent podcast</a>
 
 Now of course Sacks made the <em>choice </em>to adopt this strategy in the first place and made the initial <em>choice</em> of which foods we would purchase each week, but the key idea still emerges.  Not all choices are better served by more options and more freedom.  <em>Our time is valuable and there are choices we want to spend time making and choices we don't.</em>
 
-I like to think of choices as existing on a Cartesian Choice Plane with two parameters: Significance and Novelty.
+I like to think of choices as existing on a [Cartesian Choice Plane](http://www.djstrouse.com/images/choiceplane.jpg) with two parameters: Significance and Novelty.
 
 <strong>Novel, significant choices</strong> are those requiring the most time input.  You've never encountered them before, but their consequences are meaningful to you.  You'll need to invest your time and mental effort to evaluate a series of possible decisions and select the "best" one based on your predictions of their effects.  These vary by person but range from choosing a job and spouse to purchasing Christmas gifts.
 
