@@ -24,11 +24,11 @@ var Anchor = {
 		});
 		var toggleTitle = function () {
 			console.log('toggling')
-			$('#jaan').toggleClass('hilighted unhilighted');
-			$('#altosaar').toggleClass('unhilighted hilighted');
+			$('#dj').toggleClass('hilighted unhilighted');
+			$('#strouse').toggleClass('unhilighted hilighted');
 		}
-		$('#jaan').mouseenter(toggleTitle);
-		$('#altosaar').mouseenter(toggleTitle);
+		$('#dj').mouseenter(toggleTitle);
+		$('#strouse').mouseenter(toggleTitle);
 	},
 	
 	hideSlidey: function() {
