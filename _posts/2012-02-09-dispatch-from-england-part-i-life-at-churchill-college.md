@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: Dispatch from England - Part I
 description: "Life at Churchill College, home of Cambridge's engineers and Americans."
-categories: [blog, travel, england]
+categories: [blog, travel, england, education]
 modified: 2012-02-09
 image:
   thumb: churchillcollege.jpg

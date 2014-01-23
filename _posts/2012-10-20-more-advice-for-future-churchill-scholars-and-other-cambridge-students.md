@@ -2,7 +2,7 @@
 layout: post-light-feature
 title: More Advice for Future Churchill Scholars (and Other Cambridge Students)
 description: "Reflections on a year as a Churchill Scholar."
-categories: [blog, travel, england]
+categories: [blog, travel, england, education]
 modified: 2012-10-20
 image:
   thumb: churchill.jpg
