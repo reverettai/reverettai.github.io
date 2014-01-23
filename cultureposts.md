@@ -1,6 +1,6 @@
 ---
 layout: cultureposts
 permalink: /blog/culture/index.html
-title: "Culture Posts"
+title: "Cultural Posts (aka Everything Else)"
 tags: [culture, blog]
 ---
