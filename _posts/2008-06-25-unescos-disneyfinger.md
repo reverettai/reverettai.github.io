@@ -4,6 +4,7 @@ title: UNESCO's Disneyfinger
 description: "UNESCO World Heritage status is usually considered an honor, but it has its drawbacks."
 categories: [blog, travel, china]
 modified: 2008-06-25
+comments: true
 image:
   thumb: unesco.jpg
 ---

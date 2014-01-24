@@ -4,6 +4,7 @@ title: The State of Theory in Neuroscience, or How I Learned to Stop Worrying an
 description: "A physicist's first impressions of neuroscience."
 categories: [blog, science]
 modified: 2010-07-25
+comments: true
 image:
   thumb: brain.jpg
 ---

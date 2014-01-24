@@ -4,6 +4,7 @@ title: This is China
 description: "Some defining moments for my summer in China."
 categories: [blog, travel, china]
 modified: 2008-07-26
+comments: true
 image:
   thumb: chineseflag.jpg
 ---

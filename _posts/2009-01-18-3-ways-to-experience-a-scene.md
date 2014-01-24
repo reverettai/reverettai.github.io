@@ -4,6 +4,7 @@ title: 3 Ways to Experience a Scene
 description: "The romantic, analytical, and evocative approaches to viewing a scene."
 categories: [blog, culture]
 modified: 2009-01-18
+comments: true
 image:
   thumb: agata.jpg
 ---

@@ -4,6 +4,7 @@ title: Italy - Small Portions, Smaller People
 description: "Why are Americans, and their plates, so large?"
 categories: [blog, travel, italy]
 modified: 2009-07-11
+comments: true
 image:
   thumb: gromgelato.jpg
 ---

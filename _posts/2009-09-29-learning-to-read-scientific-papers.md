@@ -4,6 +4,7 @@ title: Learning to Read (Scientific Papers)
 description: "How to parse the terse, unfamiliar language of the scientific paper."
 categories: [blog, education]
 modified: 2009-09-29
+comments: true
 image:
   thumb: reading.jpg
 ---

@@ -4,6 +4,7 @@ title: Dispatch from England - Part V
 description: "Advice for future Churchill Scholars (and other Cambridge students) from a former Churchill Scholar."
 categories: [blog, travel, england, education]
 modified: 2012-10-19
+comments: true
 image:
   thumb: churchill.jpg
 ---

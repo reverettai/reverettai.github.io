@@ -4,6 +4,7 @@ title: Huangshan - A Breath of Fresh Air
 description: "Hiking one of China's most famous and beautiful (and crowded) mountains."
 categories: [blog, travel, china]
 modified: 2008-06-12
+comments: true
 image:
   thumb: huangshan.jpg
 ---

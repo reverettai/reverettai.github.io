@@ -4,6 +4,7 @@ title: Guide to Applying to US Science PhD Programs and Fellowships
 description: "How to choose where to apply, how to put together a good application, and how to decide where to go."
 categories: [blog, education, highlighted]
 modified: 2011-07-07
+comments: true
 image:
   thumb: degree.jpg
 ---

@@ -4,6 +4,7 @@ title: Preparing for China - Goals
 description: "My goals for my summer (internship) in Shanghai."
 categories: [blog, travel, china]
 modified: 2008-05-17
+comments: true
 image:
   thumb: soccergoal.jpg
 ---

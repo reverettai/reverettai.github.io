@@ -4,6 +4,7 @@ title: Preparing for China - Expectations
 description: "What I expect for my summer internship in Shanghai."
 categories: [blog, travel, china]
 modified: 2008-05-16
+comments: true
 image:
   thumb: shanghai.jpg
 ---

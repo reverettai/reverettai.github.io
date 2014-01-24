@@ -4,6 +4,7 @@ title: When and How Do I Learn Something?
 description: "Strategies and actions that have helped me learn and retain material."
 categories: [blog, education]
 modified: 2010-03-28
+comments: true
 image:
   thumb: studying.jpg
 ---

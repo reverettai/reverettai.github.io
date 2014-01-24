@@ -4,6 +4,7 @@ title: Trained Attention & Discovering the Silent Stories
 description: "Our attention is often so trained that we miss the most interesting stories around us."
 categories: [blog, culture]
 modified: 2009-01-12
+comments: true
 image:
   thumb: audience.jpg
 ---

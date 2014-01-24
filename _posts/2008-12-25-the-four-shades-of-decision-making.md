@@ -4,6 +4,7 @@ title: The Four Shades of Decision Making
 description: "How should we define and measure randomness?"
 categories: [blog, culture]
 modified: 2008-12-25
+comments: true
 image:
   thumb: choiceplane.jpg
 ---

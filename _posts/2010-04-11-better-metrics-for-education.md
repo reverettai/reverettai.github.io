@@ -4,6 +4,7 @@ title: Better Metrics for Education
 description: "Why today's tests are unnatural and some thoughts on how to improve them."
 categories: [blog, education]
 modified: 2010-04-11
+comments: true
 image:
   thumb: testing.jpg
 ---

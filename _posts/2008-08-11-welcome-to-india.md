@@ -4,6 +4,7 @@ title: Welcome to India
 description: "The (mis)adventures of USC students trying to bring clean water to an Indian village."
 categories: [blog, travel, india]
 modified: 2008-08-11
+comments: true
 image:
   thumb: hublikids.jpg
 ---

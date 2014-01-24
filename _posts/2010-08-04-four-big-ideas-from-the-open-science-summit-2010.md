@@ -4,6 +4,7 @@ title: Four Big Ideas from the Open Science Summit 2010
 description: "Microfinance & science, scientific reproducibility, and how to attract more researchers to open science."
 categories: [blog, open science]
 modified: 2010-08-04
+comments: true
 image:
   thumb: oss2010.jpg
 ---

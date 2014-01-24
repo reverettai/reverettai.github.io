@@ -4,6 +4,7 @@ title: Dispatch from England - Part II
 description: "Being an American in England feels like being a golden retriever puppy at a funeral - incongruously enthusiac."
 categories: [blog, travel, england, education]
 modified: 2012-04-19
+comments: true
 image:
   thumb: britishflag.jpg
 ---

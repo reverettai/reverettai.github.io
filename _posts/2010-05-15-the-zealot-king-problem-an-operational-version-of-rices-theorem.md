@@ -4,6 +4,7 @@ title: The Zealot King Problem & An Operational Version of Rice's Theorem
 description: "Musings on Turing machines inspired by Sipser's 'Introduction to the Theory of Computation.'"
 categories: [blog, science]
 modified: 2010-05-15
+comments: true
 image:
   thumb: king-solomon.jpg
 ---

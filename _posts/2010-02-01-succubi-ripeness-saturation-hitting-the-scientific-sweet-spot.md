@@ -4,6 +4,7 @@ title: Succubi, Ripeness, & Saturation - Hitting the Scientific Sweet Spot
 description: "How should a young scientist choose a field with lots of opportunity?"
 categories: [blog, science]
 modified: 2010-02-01
+comments: true
 image:
   thumb: ripefruit.jpg
 ---

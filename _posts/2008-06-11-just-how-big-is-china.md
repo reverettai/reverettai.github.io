@@ -4,6 +4,7 @@ title: Just How Big is China?
 description: "Even hiking a mountain involves waiting in line."
 categories: [blog, travel, china]
 modified: 2008-06-11
+comments: true
 image:
   thumb: huangshancrowd.jpg
 ---

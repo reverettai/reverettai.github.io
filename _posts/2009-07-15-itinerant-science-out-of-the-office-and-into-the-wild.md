@@ -4,6 +4,7 @@ title: Itinerant Science - Out of the Office and into the Wild
 description: "No one really believes cubicles foster creativity - so why do work in them?"
 categories: [blog, science]
 modified: 2009-07-15
+comments: true
 image:
   thumb: itinerantscience.jpg
 ---

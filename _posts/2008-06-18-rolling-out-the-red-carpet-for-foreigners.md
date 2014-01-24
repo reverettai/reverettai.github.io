@@ -4,6 +4,7 @@ title: Rolling Out the Red Carpet for Foreigners
 description: "There's a big difference between how nationals and foreigners are treated in China."
 categories: [blog, travel, china]
 modified: 2008-06-18
+comments: true
 image:
   thumb: redcarpet.jpg
 ---

@@ -4,6 +4,7 @@ title: Why the World Needs New Currencies
 description: "Our current monetary system doesn't always reward those who deserve it."
 categories: [blog, culture]
 modified: 2008-12-26
+comments: true
 image:
   thumb: currencies.jpg
 ---

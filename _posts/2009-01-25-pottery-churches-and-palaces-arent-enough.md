@@ -4,6 +4,7 @@ title: Pottery, Churches, and Palaces Aren't Enough
 description: "The damaging effect of history's focus on the powerful and tangible."
 categories: [blog, culture]
 modified: 2009-01-25
+comments: true
 image:
   thumb: brokenpottery.jpg
 ---

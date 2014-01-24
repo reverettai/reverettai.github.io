@@ -4,6 +4,7 @@ title: Thoughts on Randomness
 description: "How should we define and measure randomness?"
 categories: [blog, science]
 modified: 2010-02-28
+comments: true
 image:
   thumb: dice.jpg
 ---

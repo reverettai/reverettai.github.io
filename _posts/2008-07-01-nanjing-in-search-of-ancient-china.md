@@ -4,6 +4,7 @@ title: Nanjing - In Search of Ancient China
 description: "A weekend trip to Nanjing for WWII museums, temples, and ancient city walls."
 categories: [blog, travel, china]
 modified: 2008-07-01
+comments: true
 image:
   thumb: nanjing.jpg
 ---

@@ -4,6 +4,7 @@ title: Engineering Everything
 description: "As we learn more about the world, everything becomes engineerable."
 categories: [blog, culture]
 modified: 2008-06-13
+comments: true
 image:
   thumb: nanoengineering.jpg
 ---

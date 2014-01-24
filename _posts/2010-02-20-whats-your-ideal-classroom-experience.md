@@ -4,6 +4,7 @@ title: What's Your Ideal Classroom Experience?
 description: "Less lecturing and more collaborative problem-solving."
 categories: [blog, education]
 modified: 2010-02-20
+comments: true
 image:
   thumb: lecture.jpg
 ---

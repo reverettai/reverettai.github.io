@@ -4,6 +4,7 @@ title: Dispatch from England - Part III
 description: "Life in Cambridge, the 700-year old university that doesn't look a day over 600."
 categories: [blog, travel, england, education]
 modified: 2012-04-21
+comments: true
 image:
   thumb: cambridge.jpg
 ---

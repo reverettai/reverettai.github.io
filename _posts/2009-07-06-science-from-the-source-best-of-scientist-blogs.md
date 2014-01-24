@@ -4,6 +4,7 @@ title: Science from the Source - Best of Scientist Blogs
 description: "Few scientists write about their work for the popular audience, but here are some of my favorites."
 categories: [blog, science]
 modified: 2009-07-06
+comments: true
 image:
   thumb: sciencewriting.jpg
 ---
