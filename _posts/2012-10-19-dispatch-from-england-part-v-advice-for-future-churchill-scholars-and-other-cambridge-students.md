@@ -33,4 +33,4 @@ Arrive early and spend a couple of weeks settling in. Doing so before term start
 
 Finally, familiarize yourself with Gumtree, the UK’s equivalent of craigslist. It is, for example, the best way to pick up an inexpensive and high quality bike in Cambridge.
 
-*This post is the final part of a five-part series on my first four months in Cambridge adapted from a mid-year report I submitted to the Churchill Foundation - the sponsor whose generosity is allowing me to spend one year at the University of Cambridge. It was written in January 2012.*
+*This post is the final part of a five-part series on my first four months in Cambridge adapted from a mid-year report I submitted to the Churchill Foundation - the sponsor whose generosity is allowing me to spend one year at the University of Cambridge. It was written in January 2012. You can read some additional advice I wrote at the end of time in Cambridge [here](http://djstrouse.com/more-advice-for-future-churchill-scholars-and-other-cambridge-students).*
