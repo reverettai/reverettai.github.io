@@ -13,6 +13,8 @@ My research focuses on trying to understand the design principles of biological 
 
 I studied physics and math at the [University of Southern California](http://www.usc.edu/), spent a year at the [University of Cambridge](http://www.cam.ac.uk/)’s [Computational and Biological Learning Laboratory](http://learning.eng.cam.ac.uk/Public/) on a [Churchill Scholarship](http://www.winstonchurchillfoundation.org/), and am now a PhD student in physics at [Princeton University](http://www.princeton.edu/) on a [Hertz Fellowship](http://www.hertzfoundation.org) and [DoE Computational Sciences Graduate Fellowship](http://www.krellinst.org/csgf/). I work with [Bill Bialek](http://www.princeton.edu/~wbialek/wbialek.html) and [Carlos Brody](http://brodylab.org/).
 
+I'm a bit of a [travel junkie](https://www.tripit.com/people/djstrouse) and have lived for a month or more in: Cambridge, England; Shanghai, China; Torino, Italy; Budapest, Hungary; Będlewo, Poland; Waterloo, Ontario, Canada; and Seoul, South Korea (and traveled to another 20 or so beyond that). Within the US, I've spent a month or more in: Chicago, IL; Newark, DE; Los Angeles, CA; Princeton, NJ; Woods Hole, MA; and Palo Alto, CA.
+
 If you’re looking for a CV, you can get your fix [here](http://djstrouse.com/downloads/DJStrouseCV.pdf). If you want to get in touch, you can try [my email](mailto:danieljstrouse@gmail.com) or the following places around the interwebs:
 
 ## <center><a href="https://facebook.com/djstrouse" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></center>
