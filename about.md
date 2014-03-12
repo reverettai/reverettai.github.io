@@ -23,12 +23,12 @@ If you’re looking for a CV, you can get your fix [here](http://djstrouse.com/d
 
 ## <center><a href="http://www.linkedin.com/pub/dj-strouse/7/228/463/" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
 
-## <center><a href="https://github.com/djstrouse" target="_blank"><i class="icon-github"></i> GitHub</a></center>
-
-## <center><a href="https://twitter.com/djstrouse" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
-
 ## <center><a href="https://www.tripit.com/people/djstrouse" target="_blank"><i class="icon-tripit-sign"></i> TripIt</a></center>
 
 ## <center><a href="http://www.tripadvisor.com/members/djstrouse" target="_blank"><i class="icon-tripadvisor-sign"></i> TripAdvisor</a></center>
 
 ## <center><a href="http://www.yelp.com/user_details?userid=2KcuwWPvsdSMEWW_6CYYpg" target="_blank"><i class="icon-yelp-sign"></i> Yelp</a></center>
+
+## <center><a href="https://github.com/djstrouse" target="_blank"><i class="icon-github"></i> GitHub</a></center>
+
+## <center><a href="https://twitter.com/djstrouse" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
