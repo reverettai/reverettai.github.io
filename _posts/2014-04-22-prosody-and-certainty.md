@@ -3,7 +3,7 @@ layout: post-light-feature
 title: Prosody and Certainty
 description: "What features of the human voice convey confidence?"
 category: project
-modified: 2014-01-19
+modified: 2014-04-22
 tags: [psychology, linguistics, bayesian, confidence, certainty, uncertainty, pitch, volume, voice, projects]
 comments: true
 image:
