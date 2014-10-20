@@ -1,9 +1,9 @@
 ---
 layout: post-light-feature
-title: Prosody and Certainty
-description: "What features of the human voice convey confidence?"
+title: Voice, Confidence, and Group Decision-Making
+description: "What features of the human voice convey confidence? How does confidence communication affect group decision-making?"
 category: project
-modified: 2014-04-22
+modified: 2014-10-20
 tags: [psychology, linguistics, bayesian, confidence, certainty, uncertainty, pitch, volume, voice, projects]
 comments: true
 image:
