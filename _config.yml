@@ -46,7 +46,7 @@ links:
 timezone:    America/New_York
 future:      true
 pygments:    true
-markdown:    maruku
+markdown:    kramdown
 
 kramdown:
   auto_ids: true
