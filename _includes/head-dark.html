@@ -31,6 +31,11 @@
 <!-- Google & Bing Verification -->
 {% if site.google_verify %}<meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
 {% if site.bing_verify %}<meta name="msvalidate.01" content="{{ site.bing_verify }}">{% endif %}
+
+<!-- mathjax support -->
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 </head>
 <link rel="canonical" href="{{ canonical }}">
 <link href="{{ site.url }}/feed.xml" type="application/atom+xml" rel="alternate" title="Subscribe to the {{ site.title }} Feed">
@@ -76,11 +81,6 @@
 <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
 <!-- 32x32 -->
 <link rel="shortcut icon" href="{{ site.url }}/favicon.png">
-
-<!-- mathjax support -->
-<script type="text/javascript"
-    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
 
 <div id="bump">
   <body class="">
