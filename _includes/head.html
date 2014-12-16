@@ -50,9 +50,11 @@
 <link rel="shortcut icon" href="{{ site.url }}/favicon.ico">
 
 <!-- mathjax -->
-{% if page.use_math %}
-    {% include mathjax_support %}
-{% endif %}
+<head>
+	{% if page.use_math %}
+    	{% include mathjax_support %}
+	{% endif %}
+</head>
 
 <div id="bump">
   <body class="">
