@@ -13,4 +13,4 @@ Jan 20, 2011 - [USC announcement of the Churchill Scholarship](http://news.usc.e
 In addition, here are two profiles of my work written by me for the organizations that fund my research.
 
 [Hertz Foundation](http://www.hertzfoundation.org/dx/fellows/fellow_profile.aspx?d=11253)<br>
-[Department of Energy](http://www.krellinst.org/csgf/community/fellows/profile?n=strouse2012)
+[Department of Energy](http://www.krellinst.org/csgf/fellows/profile?n=strouse2012)
