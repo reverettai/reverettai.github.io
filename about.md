@@ -17,24 +17,22 @@ I'm a bit of a [travel junkie](https://www.tripit.com/people/djstrouse) and have
 
 If you’re looking for a CV, you can get your fix [here](http://djstrouse.com/downloads/DJStrouseCV.pdf). If you want to get in touch, you can try [my email](mailto:danieljstrouse@gmail.com) or the following places around the interwebs:
 
-## <center><a href="https://facebook.com/djstrouse" target="_blank"><i class="icon-facebook-sign"></i> Facebook </a></center>
+## <center><a href="https://facebook.com/djstrouse" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></center>
 
-## <center><a href="http://instagram.com/djstrouse" target="_blank"><i class="fa fa-instagram"></i> Instagram </a></center>
+## <center><a href="http://instagram.com/djstrouse" target="_blank"><i class="icon-instagram-sign"></i> Instagram</a></center>
 
-## <center><a href="https://github.com/djstrouse" target="_blank"><i class="fa fa-github"></i> GitHub </a></center>
+## <center><a href="https://www.goodreads.com/djstrouse" target="_blank"><i class="icon-goodreads-sign"></i> Goodreads</a></center>
 
-## <center><a href="http://www.linkedin.com/pub/dj-strouse/7/228/463/" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn </a></center>
+## <center><a href="http://www.linkedin.com/pub/dj-strouse/7/228/463/" target="_blank"><i class="icon-linkedin-sign"></i> LinkedIn</a></center>
 
-## <center><a href="https://www.goodreads.com/djstrouse" target="_blank"><i class="icon-goodreads-sign"></i> Goodreads </a></center>
+## <center><a href="https://www.tripit.com/people/djstrouse" target="_blank"><i class="icon-tripit-sign"></i> TripIt</a></center>
 
-## <center><a href="https://www.tripit.com/people/djstrouse" target="_blank"><i class="icon-tripit-sign"></i> TripIt </a></center>
+## <center><a href="http://www.tripadvisor.com/members/djstrouse" target="_blank"><i class="icon-tripadvisor-sign"></i> TripAdvisor</a></center>
 
-## <center><a href="http://www.tripadvisor.com/members/djstrouse" target="_blank"><i class="icon-tripadvisor-sign"></i> TripAdvisor </a></center>
+## <center><a href="http://www.yelp.com/user_details?userid=2KcuwWPvsdSMEWW_6CYYpg" target="_blank"><i class="icon-yelp-sign"></i> Yelp</a></center>
 
-## <center><a href="http://www.yelp.com/user_details?userid=2KcuwWPvsdSMEWW_6CYYpg" target="_blank"><i class="icon-yelp-sign"></i> Yelp </a></center>
+## <center><a href="http://www.amazon.com/gp/pdp/profile/AFF44SNB34VYN" target="_blank"><i class="icon-amazon-sign"></i> Amazon</a></center>
 
-## <center><a href="http://www.amazon.com/gp/pdp/profile/AFF44SNB34VYN" target="_blank"><i class="icon-amazon-sign"></i> Amazon </a></center>
+## <center><a href="https://github.com/djstrouse" target="_blank"><i class="icon-github"></i> GitHub</a></center>
 
-## <center><a href="https://www.reddit.com/user/djstrouse/" target="_blank"><i class="icon-reddit-sign"></i> Reddit </a></center>
-
-## <center><a href="https://twitter.com/djstrouse" target="_blank"><i class="icon-twitter-sign"></i> Twitter </a></center>
+## <center><a href="https://twitter.com/djstrouse" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></center>
