@@ -27,12 +27,4 @@ If you’re looking for a CV, you can get your fix [here](http://djstrouse.com/d
 
 ## <center><a href="https://www.goodreads.com/djstrouse" target="_blank"><i class="icon-goodreads-sign"></i> Goodreads </a></center>
 
-## <center><a href="https://www.tripit.com/people/djstrouse" target="_blank"><i class="icon-tripit-sign"></i> TripIt </a></center>
-
 ## <center><a href="https://twitter.com/djstrouse" target="_blank"><i class="icon-twitter-sign"></i> Twitter </a></center>
-
-## <center><a href="http://www.tripadvisor.com/members/djstrouse" target="_blank"><i class="icon-tripadvisor-sign"></i> TripAdvisor </a></center>
-
-## <center><a href="http://www.yelp.com/user_details?userid=2KcuwWPvsdSMEWW_6CYYpg" target="_blank"><i class="icon-yelp-sign"></i> Yelp </a></center>
-
-## <center><a href="http://www.amazon.com/gp/pdp/profile/AFF44SNB34VYN" target="_blank"><i class="icon-amazon-sign"></i> Amazon </a></center>
