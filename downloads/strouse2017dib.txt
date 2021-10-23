@@ -1,0 +1,9 @@
+@article{strouse2017dib,
+ title = {{The Deterministic Information Bottleneck}},
+ author = {Strouse, DJ and Schwab, David J.},
+ journal = {Neural Computation},
+ year = {2017},
+ volume = {29},
+ number = {6},
+ pages = {1611-1630},
+}

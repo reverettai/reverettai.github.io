@@ -1,0 +1,9 @@
+@article{strouse2019clustering,
+ title = {{Geometric Clustering with the Information Bottleneck}},
+ author = {Strouse, DJ and Schwab, David J.},
+ journal = {Neural Computation},
+ year = {2019},
+ volume = {31},
+ number = {3},
+ pages = {596-612},
+}

@@ -1,410 +1,475 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-  <head>
-  <meta name=viewport content=“width=800”>
-  <meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
-  <style type="text/css">
-    /* Color scheme stolen from Sergey Karayev */
-    a {
-    color: #1772d0;
-    text-decoration:none;
-    }
-    a:focus, a:hover {
-    color: #f09228;
-    text-decoration:none;
-    }
-    body,td,th,tr,p,a {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 14px
-    }
-    strong {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 14px;
-    }
-    heading {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 22px;
-    }
-    heading2 {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 18px;
-    }
-    papertitle {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 14px;
-    font-weight: 700
-    }
-    name {
-    font-family: 'Lato', Verdana, Helvetica, sans-serif;
-    font-size: 32px;
-    }
-    .one
-    {
-    width: 160px;
-    height: 160px;
-    position: relative;
-    }
-    .two
-    {
-    width: 160px;
-    height: 160px;
-    position: absolute;
-    transition: opacity .2s ease-in-out;
-    -moz-transition: opacity .2s ease-in-out;
-    -webkit-transition: opacity .2s ease-in-out;
-    }
-    .fade {
-     transition: opacity .2s ease-in-out;
-     -moz-transition: opacity .2s ease-in-out;
-     -webkit-transition: opacity .2s ease-in-out;
-    }
-    span.highlight {
-        background-color: #ffffd0;
-    }
-  </style>
-  <link rel="icon" type="image/png" href="images/robot.png">
-  <title>DJ Strouse</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-  </head>
-  <body>
-  <table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
-  <tr><td>
-  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr><td width="67%" valign="middle">
-  <p align="center">
-  <name>DJ Strouse</name>
-  </p><p>
-  I am a Research Scientist at <a href="https://deepmind.com/">DeepMind</a> in London.
-  </p><p>
-  I did a PhD in Physics at Princeton University, advised by <a href="http://davidjschwab.com/">David Schwab</a> and <a href="https://www.princeton.edu/~wbialek/wbialek.html">Bill Bialek</a>, and funded by a <a href="http://hertzfoundation.org/">Hertz Fellowship</a> and a <a href="https://www.krellinst.org/csgf/">DOE Computational Science Graduate Fellowship</a>. I did a master's at the University of Cambridge with <a href="http://www3.eng.cam.ac.uk/~ml468/">Mate Lengyel</a> as a <a href="http://www.winstonchurchillfoundation.org/scholarship.html">Churchill Scholar</a> and studied physics and mathematics at the University of Southern California, where I worked with <a href="http://profiles.sc-ctsi.org/bartlett.mel">Bartlett Mel</a> and <a href="https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1016223">Paolo Zanardi</a> and had a <a href="http://djstrouse.com/blog/">blog</a>. Throughout my studies, I also spent time at <a href="https://deepmind.com/">DeepMind</a> working with <a href="https://scholar.google.com/citations?user=eM916YMAAAAJ">Matt Botvinick</a>, <a href="https://biosciences.stanford.edu/prospective/diversity/ssrp/">Stanford University</a> working with <a href="https://web.stanford.edu/group/brainsinsilicon/boahen.html">Kwabena Boahen</a>, the <a href="https://uwaterloo.ca/institute-for-quantum-computing/">Institute for Quantum Computing</a> working with <a href="https://www.cs.umd.edu/~amchilds/">Andrew Childs</a>, and <a href="https://www.spotify.com">Spotify</a> NYC working with their machine learning team.
-  </p><p align=center>
-  <a href="mailto:danieljstrouse@gmail.com">Email</a> &nbsp/&nbsp
-  <a href="https://twitter.com/djstrouse">Twitter</a> &nbsp/&nbsp
-  <a href="downloads/DJStrouseCV.pdf">CV</a> &nbsp/&nbsp
-  <a href="https://scholar.google.com/citations?user=K8E0T7MAAAAJ">Scholar</a> &nbsp/&nbsp
-  <a href="https://github.com/djstrouse">GitHub</a>
-  </p></td>
-  <td width="33%">
-  <img src="images/dj_circle.jpg"> <!-- should be 280x280 -->
-  </td></tr></table>
+<head>
+<meta name=viewport content="width=800">
+<meta name="generator" content="HTML Tidy for Linux/x86 (vers 11 February 2007), see www.w3.org">
+<style type="text/css">
+  /* Color scheme stolen from Sergey Karayev */
+  a {
+  color: #1772d0;
+  text-decoration:none;
+  }
+  a:focus, a:hover {
+  color: #f09228;
+  text-decoration:none;
+  }
+  body,td,th,tr,p,a {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px
+  }
+  strong {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  }
+  heading {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 22px;
+  }
+  heading2 {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 18px;
+  }
+  papertitle {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: 700
+  }
+  name {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 32px;
+  }
+  award {
+  color: red;
+  font-weight: 700;
+  }
+  .paperthumbcol
+  {
+  vertical-align: middle;
+  width: 25%;
+  }
+  .paperthumb
+  {
+  width: 160px;
+  }
+  .papertextcol
+  {
+  vertical-align: middle;
+  width: 75%;
+  }
+  .one
+  {
+  width: 160px;
+  height: 160px;
+  position: relative;
+  }
+  .two
+  {
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+  }
+  .fade {
+   transition: opacity .2s ease-in-out;
+   -moz-transition: opacity .2s ease-in-out;
+   -webkit-transition: opacity .2s ease-in-out;
+  }
+  span.highlight {
+      background-color: #ffffd0;
+  }
+</style>
+<!-- javascript -->
+<script>
+function hideblock(blockid)
+{
+  var block = document.getElementById(blockid);
+  block.style.display = 'none' ;
+}
+function toggleblock(blockid)
+{
+  var block = document.getElementById(blockid) ;
+  if (block.style.display == 'none') {
+      block.style.display = 'block' ;
+  } else {
+      block.style.display = 'none' ;
+  }
+}
+function copybib(paperid) {
+  /* Get the text field */
+  var block = document.getElementById(paperid) ;
+  var bib = block.getElementsByTagName('pre') ;
+  var copyText = bib[0].firstChild.nodeValue ;
 
-  <!-- RESEARCH SECTION -->
-  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr> <td width="100%" valign="middle">
-  <heading>Research</heading> <p>
-  I'm interested in reinforcement learning (RL), information theory, and deep learning with an eye toward understanding and creating intelligent agents. My <a href="downloads/DJStrouseThesis.pdf">PhD thesis ("Optimization of MILES")</a> focused on applications of the information bottleneck (IB) in supervised, unsupervised, and reinforcement learning. In the past, I've also worked on quantum information theory and computational neuroscience.
-  </p> </td> </tr> </table>
+  /* Copy the text inside the text field */
+  navigator.clipboard.writeText(copyText);
+}
+</script>
+<link rel="icon" type="image/png" href="images/robot.png">
+<title>DJ Strouse</title>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<table width="800" border="0" align="center" cellspacing="0" cellpadding="0">
+<tr><td>
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr><td width="67%" valign="middle">
+<p align="center">
+<name>DJ Strouse</name>
+</p><p>
+I am a Senior Research Scientist at <a href="https://deepmind.com/">DeepMind</a> in London.
+</p><p>
+I did my PhD in Physics at Princeton University, advised by <a href="http://davidjschwab.com/">David Schwab</a> and <a href="https://www.princeton.edu/~wbialek/wbialek.html">Bill Bialek</a>, and funded by a <a href="http://hertzfoundation.org/">Hertz Fellowship</a> and <a href="https://www.krellinst.org/csgf/">DOE Computational Science Graduate Fellowship</a>. Before that, I did a master's at the University of Cambridge with <a href="http://www3.eng.cam.ac.uk/~ml468/">Mate Lengyel</a> as a <a href="http://www.winstonchurchillfoundation.org/scholarship.html">Churchill Scholar</a> and studied physics and mathematics at the University of Southern California, where I worked with <a href="http://profiles.sc-ctsi.org/bartlett.mel">Bartlett Mel</a> and <a href="https://dornsife.usc.edu/cf/faculty-and-staff/faculty.cfm?pid=1016223">Paolo Zanardi</a> and had a <a href="http://djstrouse.com/blog/">blog</a>. Throughout my studies, I interned at <a href="https://deepmind.com/">DeepMind</a> with <a href="https://scholar.google.com/citations?user=eM916YMAAAAJ">Matt Botvinick</a>, <a href="https://biosciences.stanford.edu/prospective/diversity/ssrp/">Stanford University</a> with <a href="https://web.stanford.edu/group/brainsinsilicon/boahen.html">Kwabena Boahen</a>, the <a href="https://uwaterloo.ca/institute-for-quantum-computing/">Institute for Quantum Computing</a> with <a href="https://www.cs.umd.edu/~amchilds/">Andrew Childs</a>, and <a href="https://www.spotify.com">Spotify</a> NYC with their machine learning team.
+</p><p align=center>
+<a href="mailto:danieljstrouse@gmail.com">Email</a> &nbsp/&nbsp
+<a href="https://twitter.com/djstrouse">Twitter</a> &nbsp/&nbsp
+<a href="downloads/DJStrouseCV.pdf">CV</a> &nbsp/&nbsp
+<a href="https://scholar.google.com/citations?user=K8E0T7MAAAAJ">Scholar</a> &nbsp/&nbsp
+<a href="https://github.com/djstrouse">GitHub</a>
+</p></td>
+<td width="33%">
+<img src="images/dj_circle.jpg"> <!-- should be 280x280 -->
+</td></tr></table>
 
-  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<!-- RESEARCH SECTION -->
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr> <td width="100%" valign="middle">
+<heading>Research</heading> <p>
+I'm broadly interested in reinforcement and deep learning. Lately, I've been especially interested in the efficient training of agents that can meaningfully interact and collaborate with  humans. My <a href="downloads/DJStrouseThesis.pdf">PhD thesis ("Optimization of MILES")</a> focused on applications of the information bottleneck (IB) across supervised, unsupervised, and reinforcement learning. In past lives, I've also worked on quantum information theory and computational neuroscience.
+</p> </td> </tr> </table>
 
-  <!-- project begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/DISDAIN.png"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="https://arxiv.org/abs/2107.14226">
-  <papertitle>Learning more skills through optimistic exploration</papertitle></a><br>
-  <!-- authors -->
-	<strong>DJ Strouse</strong>*,
-	<a href="https://scholar.google.com/citations?user=feM7-mEAAAAJ&hl=en">Kate Baumli</a>,
-	<a href="https://scholar.google.co.uk/citations?user=MOgfm8oAAAAJ&hl=en">David Warde-Farley</a>,
-	<a href="https://scholar.google.co.uk/citations?user=rLdfJ1gAAAAJ&hl=en">Vlad Mnih</a>,
-  <a href="https://scholar.google.co.uk/citations?user=hIOEWsEAAAAJ&hl=en">Steven Hansen*</a><br>
-	<!-- publication status and links -->
-	<em>arxiv</em>, 2021<br>
-  <a href="https://arxiv.org/abs/2107.14226">arxiv</a>
-  <p></p>
-  <!-- project description -->
-  <p>We highlight the inherent pessmism towards exploration in a popular family of variational unsupervised skill learning methods. To curb this pessimism, we propose an ensemble uncertainty based exploration bonus that we call discriminator disagreement intrinsic reward, or DISDAIN. We show that DISDAIN improves skill learning in both a gridworld and the Atari57 suite. Thus, we encourage researchers to treat pessimism with DISDAIN.</p>
-  </td></tr>
-  <!-- project end -->
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
-  <!-- project begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/auctionCNN.png"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="https://arxiv.org/abs/1907.05181">
-  <papertitle>A Neural Architecture for Designing Truthful and Efficient Auctions</papertitle></a><br>
-  <!-- authors -->
-	<a href="https://www.andreatacchetti.com/">Andrea Tacchetti</a>,
-	<strong>DJ Strouse</strong>,
-	<a href="https://www.doc.ic.ac.uk/~mg4413/">Marta Garnelo</a>,
-	<a href="https://scholar.google.co.uk/citations?hl=en&user=PNH24toAAAAJ">Thore Graepel</a>,
-	<a href="https://scholar.google.com/citations?user=0W63ivcAAAAJ&hl=en">Yoram Bachrach</a><br>
-	<!-- publication status and links -->
-	<em>arxiv</em>, 2019<br>
-  <a href="https://arxiv.org/abs/1907.05181">arxiv</a>
-  <p></p>
-  <!-- project description -->
-  <p>We present a deep learning approach to auction design that guarantees truthfulness (bidders are incentivized to be honest) and efficiency (whoever wants the item most gets it). We focus on social utility maximizing auctions, where the goal is to achieve the former constraints while placing as little economic burden on the bidders as possible.</p>
-  </td></tr>
-  <!-- project end -->
+<!-- project begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/fcp.jpg" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/2110.08176">
+<papertitle>Collaborating with Humans without Human Data</papertitle></a><br>
+<!-- authors -->
+<strong>DJ Strouse</strong>*,
+<a href="https://www.empiricallykev.com/">Kevin R. McKee</a>,
+<a href="https://scholar.google.com/citations?user=eM916YMAAAAJ">Matt Botvinick</a>,
+<a href="https://edwardhughes.io/">Edward Hughes</a>,
+<a href="https://scholar.google.co.uk/citations?user=IIlnyWQAAAAJ&hl=en">Richard Everett*</a><br>
+<!-- publication status -->
+<em>NeurIPS</em>, 2021 <award>(Spotlight)</award><br>
+<!-- links -->
+<a href="https://arxiv.org/abs/2110.08176">arxiv</a> |
+<a href="downloads/strouse2021fcp.txt">bibtex</a>
+<p></p>
+<!-- project description -->
+<p>We introduce Fictitious Co-Play (FCP), a simple and intuitive training method for producing agents capable of zero-shot coordination with humans in Overcooked. FCP works by training an agent as the best response to a frozen pool of self-play agents and their past checkpoints. Notably, FCP exhibits robust generaliation to humans, despite not using any human data during training.</p></td></tr>
+<!-- project end -->
 
-  <!-- project begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/influence.png"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="https://arxiv.org/abs/1810.08647">
-  <papertitle>Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning</papertitle></a><br>
-  <!-- authors -->
-	<a href="https://www.media.mit.edu/people/jaquesn/overview/">Natasha Jaques</a>,
-	<a href="http://angelikilazaridou.github.io/">Angeliki Lazaridou</a>,
-	<a href="https://scholar.google.com/citations?user=3tj5358AAAAJ&hl=en">Edward Hughes</a>,
-	<a href="https://caglar.github.io/">Caglar Gulcehre</a>,
-	<a href="http://www.adaptiveagents.org/">Pedro A. Ortega</a>,
-	<strong>DJ Strouse</strong>,
-	<a href="http://www.jzleibo.com/">Joel Z. Leibo</a>,
-	<a href="http://www.cs.ox.ac.uk/people/nando.defreitas/">Nando de Freitas</a><br>
-	<!-- publication status and links -->
-	<em>International Conference on Machine Learning (ICML)</em>, 2019 <font color="red"><strong>(best paper honorable mention)</strong></font><br>
-  <a href="https://arxiv.org/abs/1810.08647">arxiv</a> /
-  <a href="https://openreview.net/forum?id=B1lG42C9Km">openreview</a>
-  <p></p>
-  <!-- project description -->
-  <p>We reward agents for influencing the actions of other agents, and show that this gives rise to better cooperation and more meaningful emergent communication protocols.</p>
-  </td></tr>
-  <!-- project end -->
+<!-- project begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/DISDAIN.png" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/2107.14226">
+<papertitle>Learning more skills through optimistic exploration</papertitle></a><br>
+<!-- authors -->
+<strong>DJ Strouse</strong>*,
+<a href="https://scholar.google.com/citations?user=feM7-mEAAAAJ&hl=en">Kate Baumli</a>,
+<a href="https://scholar.google.co.uk/citations?user=MOgfm8oAAAAJ&hl=en">David Warde-Farley</a>,
+<a href="https://scholar.google.co.uk/citations?user=rLdfJ1gAAAAJ&hl=en">Vlad Mnih</a>,
+<a href="https://scholar.google.co.uk/citations?user=hIOEWsEAAAAJ&hl=en">Steven Hansen*</a><br>
+<!-- publication status -->
+<em>arxiv</em>, 2021<br>
+<!-- links -->
+<a href="https://arxiv.org/abs/2107.14226">arxiv</a>
+<p></p>
+<!-- project description -->
+<p>We highlight the inherent pessmism towards exploration in a popular family of variational unsupervised skill learning methods. To curb this pessimism, we propose an ensemble uncertainty based exploration bonus that we call discriminator disagreement intrinsic reward, or DISDAIN. We show that DISDAIN improves skill learning in both a gridworld and the Atari57 suite. Thus, we encourage researchers to treat pessimism with DISDAIN.</p>
+</td></tr>
+<!-- project end -->
 
-  <!-- paper begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/geometric_IB.jpg"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-	<a href="https://arxiv.org/abs/1712.09657">
-  <papertitle>The information bottleneck and geometric clustering</papertitle></a><br>
-  <!-- authors -->
-	<strong>DJ Strouse</strong>,
-	<a href="">David Schwab</a><br>
-	<!-- publication status and links -->
-  <em>Neural Computation (NECO)</em>, 2019<br>
-  <a href="downloads/clustering_with_dib.pdf">pdf</a> /
-  <a href="https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01136">neco</a> /
-  <a href="https://arxiv.org/abs/1712.09657">arxiv</a> /
-  <a href="https://github.com/djstrouse/information-bottleneck">code</a> /
-  <a href="downloads/clustering.bib">bibtex</a>
-  <p></p>
-  <!-- project description -->
-  <p>We show how to use the (deterministic) information bottleneck to perform geometric clustering, introducing a novel information-theoretic model selection criterion. We show how this relates to and generalizes k-means and gaussian mixture models (GMMs).</p>
-  </td></tr>
-  <!-- paper end -->
+<!-- project begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/auctionCNN.png" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/1907.05181">
+<papertitle>A Neural Architecture for Designing Truthful and Efficient Auctions</papertitle></a><br>
+<!-- authors -->
+<a href="https://www.andreatacchetti.com/">Andrea Tacchetti</a>,
+<strong>DJ Strouse</strong>,
+<a href="https://www.doc.ic.ac.uk/~mg4413/">Marta Garnelo</a>,
+<a href="https://scholar.google.co.uk/citations?hl=en&user=PNH24toAAAAJ">Thore Graepel</a>,
+<a href="https://scholar.google.com/citations?user=0W63ivcAAAAJ&hl=en">Yoram Bachrach</a><br>
+<!-- publication status -->
+<em>arxiv</em>, 2019<br>
+<!-- links -->
+<a href="https://arxiv.org/abs/1907.05181">arxiv</a>
+<p></p>
+<!-- project description -->
+<p>We present a deep learning approach to auction design that guarantees truthfulness (bidders are incentivized to be honest) and efficiency (whoever wants the item most gets it). We focus on social utility maximizing auctions, where the goal is to achieve the former constraints while placing as little economic burden on the bidders as possible.</p>
+</td></tr>
+<!-- project end -->
 
-  <!-- project begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/infobot.jpg"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="https://openreview.net/forum?id=rJg8yhAqKm">
-  <papertitle>InfoBot: Transfer and Exploration via the Information Bottleneck</papertitle></a><br>
-  <!-- authors -->
-	<a href="https://anirudh9119.github.io/">Anirudh Goyal</a>,
-	<a href="https://riashatislam.com/">Riashat Islam</a>,
-	<strong>DJ Strouse</strong>,
-	<a href="http://www.zafarali.me/">Zafarali Ahmed</a>,
-	<a href="https://ai.google/research/people/105144">Hugo Larochelle</a>,
-	<a href="https://scholar.google.com/citations?user=eM916YMAAAAJ">Matthew Botvinick</a>,
-	<a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
-	<a href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/">Yoshua Bengio</a><br>
-	<!-- publication status and links -->
-	<em>International Conference on Learning Representations (ICLR)</em>, 2019<br>
-  <a href="https://openreview.net/forum?id=rJg8yhAqKm">openreview</a> /
-  <a href="https://arxiv.org/abs/1901.10902">arxiv</a>
-  <p></p>
-  <!-- project description -->
-  <p>We train agents in multi-goal environments with an information bottleneck between their goal and policy. This encourages agents to develop useful "habits" that generalize across goals. We identify the states where agents must deviate from their habits to solve a task as "decision states" and show that they are useful targets for an exploration bonus.</p>
-  </td></tr>
-  <!-- project end -->
+<!-- project begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/influence.png" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/1810.08647">
+<papertitle>Social Influence as Intrinsic Motivation for Multi-Agent Deep Reinforcement Learning</papertitle></a><br>
+<!-- authors -->
+<a href="https://www.media.mit.edu/people/jaquesn/overview/">Natasha Jaques</a>,
+<a href="http://angelikilazaridou.github.io/">Angeliki Lazaridou</a>,
+<a href="https://scholar.google.com/citations?user=3tj5358AAAAJ&hl=en">Edward Hughes</a>,
+<a href="https://caglar.github.io/">Caglar Gulcehre</a>,
+<a href="http://www.adaptiveagents.org/">Pedro A. Ortega</a>,
+<strong>DJ Strouse</strong>,
+<a href="http://www.jzleibo.com/">Joel Z. Leibo</a>,
+<a href="http://www.cs.ox.ac.uk/people/nando.defreitas/">Nando de Freitas</a><br>
+<!-- publication status -->
+<em>International Conference on Machine Learning (ICML)</em>, 2019 <award>(Best Paper Honorable Mention)</award><br>
+<!-- links -->
+<a href="https://arxiv.org/abs/1810.08647">arxiv</a> |
+<a href="https://proceedings.mlr.press/v97/jaques19a.html">icml</a> |
+<a href="https://openreview.net/forum?id=B1lG42C9Km">openreview</a>
+<p></p>
+<!-- project description -->
+<p>We reward agents for influencing the actions of other agents, and show that this gives rise to better cooperation and more meaningful emergent communication protocols.</p>
+</td></tr>
+<!-- project end -->
 
-  <!-- project begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/infobot2.jpg"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="https://arxiv.org/abs/1808.02093">
-  <papertitle>Learning to share and hide intentions using information regularization</papertitle></a><br>
-  <!-- authors -->
-	<strong>DJ Strouse</strong>,
-	<a href="http://www.mit.edu/~maxkw/">Max Kleiman-Weiner</a>,
-	<a href="http://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a>,
-	<a href="https://scholar.google.com/citations?user=eM916YMAAAAJ">Matt Botvinick</a>,
-	<a href="https://www.gc.cuny.edu/Faculty/Core-Bios/David-Schwab">David Schwab</a><br>
-	<!-- publication status and links -->
-  <em>Neural Information Processing Systems (NIPS)</em>, 2018<br>
-  <a href="https://arxiv.org/abs/1808.02093">arxiv</a> /
-  <a href="https://papers.nips.cc/paper/8227-learning-to-share-and-hide-intentions-using-information-regularization">nips</a> /
-  <a href="https://github.com/djstrouse/InfoMARL">code</a> /
-  <a href="downloads/intentions.bib">bibtex</a>
-  <p></p>
-  <!-- project description -->
-  <p>We train agents to cooperate / compete by regularizing the reward-relevant information they share with other agents, enabling agents trained alone to nevertheless perform well in a multi-agent setting.</p>
-  </td></tr>
-  <!-- project end -->
+<!-- paper begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/geometric_IB.jpg" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/1712.09657">
+<papertitle>The information bottleneck and geometric clustering</papertitle></a><br>
+<!-- authors -->
+<strong>DJ Strouse</strong>,
+<a href="">David Schwab</a><br>
+<!-- publication status -->
+<em>Neural Computation (NECO)</em>, 2019<br>
+<!-- links -->
+<a href="downloads/strouse2019clustering.pdf">pdf</a> |
+<a href="https://www.mitpressjournals.org/doi/abs/10.1162/neco_a_01136">neco</a> |
+<a href="https://arxiv.org/abs/1712.09657">arxiv</a> |
+<a href="https://github.com/djstrouse/information-bottleneck">code</a> |
+<a href="downloads/strouse2019clustering.txt">bibtex</a>
+<p></p>
+<!-- project description -->
+<p>We show how to use the (deterministic) information bottleneck to perform geometric clustering, introducing a novel information-theoretic model selection criterion. We show how this relates to and generalizes k-means and gaussian mixture models (GMMs).</p>
+</td></tr>
+<!-- paper end -->
 
-  <!-- paper begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/DIB.jpg"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-	<a href="https://arxiv.org/abs/1604.00268">
-  <papertitle>The deterministic information bottleneck</papertitle></a><br>
-  <!-- authors -->
-	<strong>DJ Strouse</strong>,
-	<a href="">David Schwab</a> <br>
-	<!-- publication status and links -->
-  <em>Neural Computation (NECO)</em>, 2017 & <em>Uncertainty in Artificial Intelligence (UAI)</em>, 2016<br>
-  <a href="downloads/dib.pdf">pdf</a> /
-  <a href="https://arxiv.org/abs/1604.00268">arxiv</a> /
-  <a href="https://github.com/djstrouse/information-bottleneck">code</a> /
-  <a href="http://auai.org/uai2016/proceedings/papers/319.pdf">uai</a> /
-  <a href="https://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00961">neco</a> /
-  <a href="downloads/dib.bib">bibtex</a>
-  <p></p>
-  <!-- project description -->
-  <p>We introduce the deterministic information bottleneck (DIB), an alternative formulation of the information bottleneck that uses entropy instead of mutual information to measure compression. This results in a hard clustering algorithm with a built-in preference for using fewer clusters.</p>
-  </td></tr>
-  <!-- paper end -->
+<!-- project begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/infobot.jpg" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://openreview.net/forum?id=rJg8yhAqKm">
+<papertitle>InfoBot: Transfer and Exploration via the Information Bottleneck</papertitle></a><br>
+<!-- authors -->
+<a href="https://anirudh9119.github.io/">Anirudh Goyal</a>,
+<a href="https://riashatislam.com/">Riashat Islam</a>,
+<strong>DJ Strouse</strong>,
+<a href="http://www.zafarali.me/">Zafarali Ahmed</a>,
+<a href="https://ai.google/research/people/105144">Hugo Larochelle</a>,
+<a href="https://scholar.google.com/citations?user=eM916YMAAAAJ">Matt Botvinick</a>,
+<a href="https://people.eecs.berkeley.edu/~svlevine/">Sergey Levine</a>,
+<a href="http://www.iro.umontreal.ca/~bengioy/yoshua_en/">Yoshua Bengio</a><br>
+<!-- publication status -->
+<em>International Conference on Learning Representations (ICLR)</em>, 2019<br>
+<!-- links -->
+<a href="https://openreview.net/forum?id=rJg8yhAqKm">openreview</a> |
+<a href="https://arxiv.org/abs/1901.10902">arxiv</a>
+<p></p>
+<!-- project description -->
+<p>We train agents in multi-goal environments with an information bottleneck between their goal and policy. This encourages agents to develop useful "habits" that generalize across goals. We identify the states where agents must deviate from their habits to solve a task as "decision states" and show that they are useful targets for an exploration bonus.</p>
+</td></tr>
+<!-- project end -->
 
-  <tr><td width="25%">
-  <heading2><i>Neuroscience</i></heading2>
-  </td/></tr>
+<!-- project begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/infobot2.jpg" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/1808.02093">
+<papertitle>Learning to share and hide intentions using information regularization</papertitle></a><br>
+<!-- authors -->
+<strong>DJ Strouse</strong>,
+<a href="http://www.mit.edu/~maxkw/">Max Kleiman-Weiner</a>,
+<a href="http://web.mit.edu/cocosci/josh.html">Josh Tenenbaum</a>,
+<a href="https://scholar.google.com/citations?user=eM916YMAAAAJ">Matt Botvinick</a>,
+<a href="https://www.gc.cuny.edu/Faculty/Core-Bios/David-Schwab">David Schwab</a><br>
+<!-- publication status -->
+<em>Neural Information Processing Systems (NIPS)</em>, 2018<br>
+<!-- links -->
+<a href="https://arxiv.org/abs/1808.02093">arxiv</a> |
+<a href="https://papers.nips.cc/paper/8227-learning-to-share-and-hide-intentions-using-information-regularization">nips</a> |
+<a href="https://github.com/djstrouse/InfoMARL">code</a> |
+<a href="downloads/strouse2018intentions.txt">bibtex</a>
+<p></p>
+<!-- project description -->
+<p>We train agents to cooperate / compete by regularizing the reward-relevant information they share with other agents, enabling agents trained alone to nevertheless perform well in a multi-agent setting.</p>
+</td></tr>
+<!-- project end -->
 
-  <!-- paper begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/dendrite.jpg"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006892">
-  <papertitle>How Dendrites Affect Online Recognition Memory</papertitle></a><br>
-  <!-- authors -->
-	<a href="https://neurotree.org/beta/peopleinfo.php?pid=155582">Xundong Wu</a>,
-	<a href="https://twitter.com/meldefon">Gabriel Mel</a>,
-	<strong>DJ Strouse</strong>,
-	<a href="http://profiles.sc-ctsi.org/bartlett.mel">Bartlett Mel</a><br>
-	<!-- publication status and links -->
-  <em>PLoS Computational Biology</em>, 2019<br>
-  <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006892">plos</a>
-	<p></p>
-	<!-- project description -->
-  <p>We study the optimal conditions for online recognition memory in a biologically-inspired neural network with "dendrite-aware" learning rules.</p>
-  </td></tr>
-	<!-- paper end -->
+<!-- paper begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/DIB.jpg"  class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/1604.00268">
+<papertitle>The deterministic information bottleneck</papertitle></a><br>
+<!-- authors -->
+<strong>DJ Strouse</strong>,
+<a href="">David Schwab</a> <br>
+<!-- publication status -->
+<em>Neural Computation (NECO)</em>, 2017 & <em>Uncertainty in Artificial Intelligence (UAI)</em>, 2016<br>
+<!-- links -->
+<a href="downloads/strouse2017dib.pdf">pdf</a> |
+<a href="https://arxiv.org/abs/1604.00268">arxiv</a> |
+<a href="https://github.com/djstrouse/information-bottleneck">code</a> |
+<a href="http://auai.org/uai2016/proceedings/papers/319.pdf">uai</a> |
+<a href="https://www.mitpressjournals.org/doi/abs/10.1162/NECO_a_00961">neco</a> |
+<a href="downloads/strouse2017dib.txt">bibtex</a>
+<p></p>
+<!-- project description -->
+<p>We introduce the deterministic information bottleneck (DIB), an alternative formulation of the information bottleneck that uses entropy instead of mutual information to measure compression. This results in a hard clustering algorithm with a built-in preference for using fewer clusters.</p>
+</td></tr>
+<!-- paper end -->
 
-  <!-- paper begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-	<img src="./images/synaptic_stimulation.jpg"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="downloads/MPhil_thesis_final.pdf">
-  <papertitle>Using neural networks to understand the computational role of dendrites</papertitle></a><br>
-  <!-- authors -->
-	<strong>DJ Strouse</strong>,
-	<a href="https://scholar.google.com/citations?user=Qup7UAYAAAAJ&hl=en">Balazs Ujfalussy</a>,
-	<a href="http://www3.eng.cam.ac.uk/~ml468/">Mate Lengyel</a><br>
-	<!-- publication status and links -->
-  <em>Computational and Systems Neuroscience (Cosyne)</em>, 2012 & 2013<br>
-	<a href="downloads/Cosyne2012_poster.pdf">2012 poster</a> & <a href="downloads/Cosyne2012_abstract.pdf">abstract</a> /
-  <a href="downloads/Cosyne2013_poster.pdf">2013 poster</a> & <a href="downloads/Cosyne2013_abstract.pdf">abstract</a> /
-  <a href="downloads/MPhil_thesis_final.pdf">master's thesis</a> /
-  <a href="downloads/why.txt">why</a>
-  <p></p>
-  <!-- project description -->
-	<p>We fit neural network models to single neuron data to understand the computational role of dendrites in integrating their synaptic input.</p>
-  </td></tr>
-  <!-- paper end -->
+<tr><td width="25%">
+<heading2><i>Neuroscience</i></heading2>
+</td/></tr>
 
-  <!-- project begin -->
-	<tr><td width="25%"><div class="one">
-	<!-- project symbol -->
-  <img src="./images/sniff.png"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-  <a href="downloads/SCNE_poster.pdf">
-  <papertitle>Behaviorally-locked structure in a sensory neural code</papertitle></a><br>
-  <!-- authors -->
-	<strong>DJ Strouse</strong>,
-	<a href="https://www.mackelab.org/">Jakob Macke</a>,
-	<a href="http://www.romashusterman.com/">Roman Shusterman</a>,
-	<a href="https://www.rinberglab.com/">Dima Rinberg</a>,
-	<a href="http://www.weizmann.ac.il/neurobiology/labs/schneidman/The_Schneidman_Lab/Home.html">Elad Schneidman</a><br>
-	<!-- publication status and links -->
-  <em>Sensory Coding & the Natural Environments (SCNE)</em>, 2012<br>
-  <a href="downloads/SCNE_abstract.pdf">abstract</a> /
-  <a href="downloads/SCNE_poster.pdf">poster</a>
-  <p></p>
-  <!-- project description -->
-  <p>We study the olfactory neural code in mice and find that much of the information about the stimulus is only decodable when interpreting neural activity relative to the sniff phase, providing evidence for the importance of considering sensory sampling behavior when interpreting neural codes.</p>
-  </td></tr>
-  <!-- project end -->
+<!-- paper begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/dendrite.jpg" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006892">
+<papertitle>How Dendrites Affect Online Recognition Memory</papertitle></a><br>
+<!-- authors -->
+<a href="https://neurotree.org/beta/peopleinfo.php?pid=155582">Xundong Wu</a>,
+<a href="https://twitter.com/meldefon">Gabriel Mel</a>,
+<strong>DJ Strouse</strong>,
+<a href="http://profiles.sc-ctsi.org/bartlett.mel">Bartlett Mel</a><br>
+<!-- publication status -->
+<em>PLoS Computational Biology</em>, 2019<br>
+<!-- links -->
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006892">plos</a>
+<p></p>
+<!-- project description -->
+<p>We study the optimal conditions for online recognition memory in a biologically-inspired neural network with "dendrite-aware" learning rules.</p>
+</td></tr>
+<!-- paper end -->
 
-  <tr><td width="25%">
-  <heading2><i>Physics</i></heading2>
-  </td/></tr>
+<!-- paper begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/synaptic_stimulation.jpg" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="downloads/MPhil_thesis_final.pdf">
+<papertitle>Using neural networks to understand the computational role of dendrites</papertitle></a><br>
+<!-- authors -->
+<strong>DJ Strouse</strong>,
+<a href="https://scholar.google.com/citations?user=Qup7UAYAAAAJ&hl=en">Balazs Ujfalussy</a>,
+<a href="http://www3.eng.cam.ac.uk/~ml468/">Mate Lengyel</a><br>
+<!-- publication status -->
+<em>Computational and Systems Neuroscience (Cosyne)</em>, 2012 & 2013<br>
+<!-- links -->
+<a href="downloads/Cosyne2012_poster.pdf">2012 poster</a> & <a href="downloads/Cosyne2012_abstract.pdf">abstract</a> |
+<a href="downloads/Cosyne2013_poster.pdf">2013 poster</a> & <a href="downloads/Cosyne2013_abstract.pdf">abstract</a> |
+<a href="downloads/MPhil_thesis_final.pdf">master's thesis</a> |
+<a href="downloads/why.txt">why</a>
+<p></p>
+<!-- project description -->
+<p>We fit neural network models to single neuron data to understand the computational role of dendrites in integrating their synaptic input.</p>
+</td></tr>
+<!-- paper end -->
 
-  <!-- paper begin -->
-	<tr><td width="25%">
-  <div class="one">
-  <!-- project symbol -->
-  <img src="./images/levinson.jpg"> <!-- should be 160x160 -->
-  </div></td>
-  <td valign="top" width="75%">
-  <!-- title -->
-	<a href="https://arxiv.org/abs/1103.5077">
-  <papertitle>Levinson's theorem for graphs</papertitle></a><br>
-  <!-- authors -->
-	<a href="https://www.cs.umd.edu/~amchilds/">Andrew Childs</a>,
-	<strong>DJ Strouse</strong><br>
-	<!-- publication status and links -->
-  <em>Journal of Mathematical Physics (JMP)</em>, 2011<br>
-  <a href="https://arxiv.org/abs/1103.5077">arxiv</a> /
-  <a href="http://aip.scitation.org/doi/abs/10.1063/1.3622608">jmp</a> /
-	<a href="downloads/IQC_colloquium_slides.pptx">talk</a>
-  <p></p>
-  <!-- project description -->
-  <p>We prove an analog of a classic result in quantum scattering theory for the setting of scattering on graphs. The goal is to provide additional tools for designing quantum algorithms in this setting.</p>
-  </td></tr>
-  <!-- paper end -->
+<!-- project begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/sniff.png" class="paperthumb">
+</td><td class="papertextcol">
+<!-- title -->
+<a href="downloads/SCNE_poster.pdf">
+<papertitle>Behaviorally-locked structure in a sensory neural code</papertitle></a><br>
+<!-- authors -->
+<strong>DJ Strouse</strong>,
+<a href="https://www.mackelab.org/">Jakob Macke</a>,
+<a href="http://www.romashusterman.com/">Roman Shusterman</a>,
+<a href="https://www.rinberglab.com/">Dima Rinberg</a>,
+<a href="http://www.weizmann.ac.il/neurobiology/labs/schneidman/The_Schneidman_Lab/Home.html">Elad Schneidman</a><br>
+<!-- publication status -->
+<em>Sensory Coding & the Natural Environments (SCNE)</em>, 2012<br>
+<!-- links -->
+<a href="downloads/SCNE_abstract.pdf">abstract</a> |
+<a href="downloads/SCNE_poster.pdf">poster</a>
+<p></p>
+<!-- project description -->
+<p>We study the olfactory neural code in mice and find that much of the information about the stimulus is only decodable when interpreting neural activity relative to the sniff phase, providing evidence for the importance of considering sensory sampling behavior when interpreting neural codes.</p>
+</td></tr>
+<!-- project end -->
 
-	</table>
-	<!-- end of research section -->
+<tr><td width="25%">
+<heading2><i>Physics</i></heading2>
+</td/></tr>
 
-  <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr> <td> <br>
-  <p align="right"> <font size="2">
-  <a href="https://github.com/jonbarron/jonbarron_website">Good artists copy.</a>
-	</font> </p> </td> </tr> </table>
+<!-- paper begin -->
+<tr><td class="paperthumbcol">
+<!-- project symbol -->
+<img src="./images/levinson.jpg" class="paperthumb"> <!-- should be 160x160 -->
+</td><td class="papertextcol">
+<!-- title -->
+<a href="https://arxiv.org/abs/1103.5077">
+<papertitle>Levinson's theorem for graphs</papertitle></a><br>
+<!-- authors -->
+<a href="https://www.cs.umd.edu/~amchilds/">Andrew Childs</a>,
+<strong>DJ Strouse</strong><br>
+<!-- publication status -->
+<em>Journal of Mathematical Physics (JMP)</em>, 2011<br>
+<!-- links -->
+<a href="https://arxiv.org/abs/1103.5077">arxiv</a> |
+<a href="http://aip.scitation.org/doi/abs/10.1063/1.3622608">jmp</a> |
+<a href="downloads/IQC_colloquium_slides.pptx">talk</a>
+<p></p>
+<!-- project description -->
+<p>We prove an analog of a classic result in quantum scattering theory for the setting of scattering on graphs. The goal is to provide additional tools for designing quantum algorithms in this setting.</p>
+</td></tr>
+<!-- paper end -->
 
-    <script type="text/javascript">
-      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-          document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script> <script type="text/javascript">
-      try {
-          var pageTracker = _gat._getTracker("UA-7580334-1");
-          pageTracker._trackPageview();
-          } catch(err) {}
-      </script>
-    </td>
-    </tr>
-  </table>
-  </body>
-</html>
+</table>
+<!-- end of research section -->
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<tr> <td> <br>
+<p align="right"> <font size="2">
+<a href="https://github.com/jonbarron/jonbarron_website">Good artists copy.</a>
+</font> </p> </td> </tr> </table>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-7580334-1");
+    pageTracker._trackPageview();
+    } catch(err) {}
+</script>
+</td></tr></table></body>

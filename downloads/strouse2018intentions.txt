@@ -1,0 +1,6 @@
+@incollection{strouse2018intentions,
+ title = {Learning to Share and Hide Intentions using Information Regularization},
+ author = {Strouse, DJ and Kleiman-Weiner, Max and Tenenbaum, Joshua and Botvinick, Matthew and Schwab, David},
+ booktitle = {Neural Information Processing Systems (NIPS)},
+ year = {2018}
+}
