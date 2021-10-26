@@ -82,10 +82,10 @@
 </style>
 <!-- javascript -->
 <script>
-function hideblock(blockid)
+function hidebib(paperid)
 {
-  var block = document.getElementById(blockid);
-  block.style.display = 'none' ;
+  var block = document.getElementById(paperid);
+  block.querySelector("#bibtex").style.display = 'none' ;
 }
 function toggleblock(blockid)
 {
@@ -94,6 +94,19 @@ function toggleblock(blockid)
       block.style.display = 'block' ;
   } else {
       block.style.display = 'none' ;
+  }
+}
+function toggleAbsVsBib(paperid)
+{
+  var block = document.getElementById(paperid);
+  if (block.querySelector("#abstract").style.display == 'none'){
+  	block.querySelector("#abstract").style.display = 'block';
+  	block.querySelector("#bibtex").style.display = 'none';
+  	block.querySelector("#toggle").innerText = 'show bibtex';
+  } else {
+  	block.querySelector("#abstract").style.display = 'none';
+  	block.querySelector("#bibtex").style.display = 'block';
+  	block.querySelector("#toggle").innerText = 'show abstract';
   }
 }
 function copybib(paperid) {
@@ -143,7 +156,7 @@ I'm broadly interested in reinforcement and deep learning. Lately, I've been esp
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 <!-- project begin -->
-<tr><td class="paperthumbcol">
+<tr id="strouse2021fcp"><td class="paperthumbcol">
 <!-- project symbol -->
 <img src="./images/fcp.jpg" class="paperthumb">
 </td><td class="papertextcol">
@@ -160,14 +173,27 @@ I'm broadly interested in reinforcement and deep learning. Lately, I've been esp
 <em>NeurIPS</em>, 2021 <award>(Spotlight)</award><br>
 <!-- links -->
 <a href="https://arxiv.org/abs/2110.08176">arxiv</a> |
-<a href="downloads/strouse2021fcp.txt">bibtex</a>
+<a href="javascript:toggleAbsVsBib('strouse2021fcp')" id="toggle">show bibtex</a>
 <p></p>
 <!-- project description -->
-<p>We introduce Fictitious Co-Play (FCP), a simple and intuitive training method for producing agents capable of zero-shot coordination with humans in Overcooked. FCP works by training an agent as the best response to a frozen pool of self-play agents and their past checkpoints. Notably, FCP exhibits robust generaliation to humans, despite not using any human data during training.</p></td></tr>
+<p id="abstract">We introduce Fictitious Co-Play (FCP), a simple and intuitive training method for producing agents capable of zero-shot coordination with humans in Overcooked. FCP works by training an agent as the best response to a frozen pool of self-play agents and their past checkpoints. Notably, FCP exhibits robust generaliation to humans, despite not using any human data during training.</p>
+<!-- bibtex -->
+<p id="bibtex"><tt>
+@inproceedings{strouse2021fcp, <br>
+&nbsp; title = {Collaborating with Humans without Human Data}, <br>
+&nbsp; author = {Strouse, DJ and McKee, Kevin R. and Botvinick, Matt and Hughes, Edward and Everett, Richard}, <br>
+&nbsp; booktitle = {Neural Information Processing Systems (NeurIPS)}, <br>
+&nbsp; year = {2021}, <br>
+}
+</tt></p>
+<script xml:space="preserve" language="JavaScript">
+hidebib('strouse2021fcp');
+</script>
+</td></tr>
 <!-- project end -->
 
 <!-- project begin -->
-<tr><td class="paperthumbcol">
+<tr id="strouse2021disdain"><td class="paperthumbcol">
 <!-- project symbol -->
 <img src="./images/DISDAIN.png" class="paperthumb">
 </td><td class="papertextcol">
@@ -183,10 +209,23 @@ I'm broadly interested in reinforcement and deep learning. Lately, I've been esp
 <!-- publication status -->
 <em>arxiv</em>, 2021<br>
 <!-- links -->
-<a href="https://arxiv.org/abs/2107.14226">arxiv</a>
+<a href="https://arxiv.org/abs/2107.14226">arxiv</a> |
+<a href="javascript:toggleAbsVsBib('strouse2021disdain')" id="toggle">show bibtex</a>
 <p></p>
 <!-- project description -->
-<p>We highlight the inherent pessmism towards exploration in a popular family of variational unsupervised skill learning methods. To curb this pessimism, we propose an ensemble uncertainty based exploration bonus that we call discriminator disagreement intrinsic reward, or DISDAIN. We show that DISDAIN improves skill learning in both a gridworld and the Atari57 suite. Thus, we encourage researchers to treat pessimism with DISDAIN.</p>
+<p id="abstract">We highlight the inherent pessmism towards exploration in a popular family of variational unsupervised skill learning methods. To curb this pessimism, we propose an ensemble uncertainty based exploration bonus that we call discriminator disagreement intrinsic reward, or DISDAIN. We show that DISDAIN improves skill learning in both a gridworld and the Atari57 suite. Thus, we encourage researchers to treat pessimism with DISDAIN.</p>
+<!-- bibtex -->
+<p id="bibtex"><tt>
+@article{strouse2021disdain, <br>
+&nbsp; title = {Learning more skills through optimistic exploration}, <br>
+&nbsp; author = {Strouse, DJ and Baumli, Kate and Warde-Farley, David and Mnih, Vlad and Hansen, Steven}, <br>
+&nbsp; journal = {arXiv preprint arXiv:2107.14226}, <br>
+&nbsp; year = {2021}, <br>
+}
+</tt></p>
+<script xml:space="preserve" language="JavaScript">
+hidebib('strouse2021disdain');
+</script>
 </td></tr>
 <!-- project end -->
 
