@@ -1,6 +1,0 @@
-@inproceedings{
- title = {Collaborating with Humans without Human Data},
- author = {Strouse, DJ and McKee, Kevin R. and Botvinick, Matt and Hughes, Edward and Everett, Richard},
- booktitle = {Neural Information Processing Systems (NeurIPS)},
- year = {2021},
-}
